@@ -1,0 +1,2001 @@
+user_id,user_name,user_contact,city_id,user_address
+1,Timbul Natsir,+62-00-021-5236,7,"Gg. Asia Afrika No. 89
+Padangpanjang, ST 05261"
+2,Kani Budiyanto,+62 (59) 334 9564,7,"Jl. Sukabumi No. 410
+Gorontalo, MU 36686"
+3,"Rendy Kusmawati, M.M.",+62 (0535) 976-3649,1,"Gang Veteran No. 385
+Palu, Nusa Tenggara Timur 14503"
+4,Makara Namaga,+62 (565) 653 0694,8,"Gang R.E Martadinata No. 67
+Prabumulih, ST 87329"
+5,Titin Wijaya,0893861604,2,"Jl. Suniaraja No. 321
+Samarinda, Bengkulu 54809"
+6,Agnes Maryati,(036) 388 2168,6,"Gang Ronggowarsito No. 11
+Cilegon, AC 19552"
+7,Ilsa Thamrin,+62 (85) 178-8271,4,"Gg. Jend. A. Yani No. 886
+Pagaralam, Kepulauan Bangka Belitung 52141"
+8,Opan Salahudin,+62 (66) 033-5523,10,"Gang KH Amin Jasuta No. 7
+Tarakan, Banten 10057"
+9,Ir. Keisha Uwais,086 924 5507,1,"Gang Raya Setiabudhi No. 0
+Kota Administrasi Jakarta Pusat, Sulawesi Selatan 82792"
+10,Puti Chelsea Rajata,+62 (372) 849-3777,1,"Jl. Pasir Koja No. 9
+Manado, Riau 90763"
+11,"Ir. Kayla Hastuti, M.TI.",+62 (821) 210 0755,5,"Jalan Jakarta No. 087
+Pasuruan, KI 99312"
+12,Winda Mahendra,(052) 667-5023,7,"Gang M.H Thamrin No. 684
+Tanjungbalai, Kalimantan Barat 27708"
+13,Lintang Narpati,(023) 865 5131,9,"Gang Gegerkalong Hilir No. 8
+Tegal, Riau 08214"
+14,"Drs. Almira Widodo, S.Pt",+62 (01) 092-2267,7,"Gg. Dipenogoro No. 002
+Bandar Lampung, Jawa Tengah 85658"
+15,"Yance Yuniar, M.Farm",+62-026-773-9616,8,"Gang Moch. Toha No. 2
+Banda Aceh, Maluku Utara 66462"
+16,Restu Purwanti,+62-65-792-2258,7,"Jalan Antapani Lama No. 9
+Manado, KU 77277"
+17,"Tgk. Titi Dongoran, S.IP",+62 (265) 048 2896,2,"Jalan Abdul Muis No. 03
+Kotamobagu, KB 69635"
+18,"Johan Wulandari, M.Farm",+62 (0382) 496-3999,6,"Jl. Raya Setiabudhi No. 409
+Cilegon, KI 77945"
+19,Ir. Irwan Ardianto,089 298 3387,9,"Jalan Jamika No. 7
+Singkawang, SU 87666"
+20,"Cut Safina Hidayat, M.Ak",+62 (0196) 554-6526,5,"Jalan Cikutra Timur No. 376
+Parepare, GO 55460"
+21,Cager Melani,(0340) 034 4714,9,"Gang Indragiri No. 9
+Banjar, SB 15933"
+22,"Dr. Eli Wasita, S.E.",088 697 4289,8,"Jalan Jend. Sudirman No. 3
+Magelang, Papua Barat 76352"
+23,Usyi Situmorang,+62 (621) 754 0056,7,"Jl. Tubagus Ismail No. 1
+Sungai Penuh, DI Yogyakarta 38801"
+24,Ghaliyati Sudiati,+62 (08) 624-4154,2,"Jalan Cihampelas No. 228
+Lubuklinggau, Jawa Barat 05972"
+25,"Ir. Putu Pradipta, S.Ked",(090) 941-6630,6,"Jalan Asia Afrika No. 49
+Makassar, Maluku Utara 65283"
+26,Latika Agustina,+62 (0376) 284-9833,1,"Jl. Monginsidi No. 085
+Balikpapan, Maluku 93788"
+27,Unjani Simanjuntak,(0902) 475-8498,6,"Jalan Veteran No. 6
+Magelang, SS 04428"
+28,Aisyah Tarihoran,0830124151,4,"Gang Surapati No. 49
+Tebingtinggi, SU 32137"
+29,Mulya Prastuti,+62-017-678-5083,3,"Gg. Kendalsari No. 2
+Pontianak, Sumatera Utara 71191"
+30,"Artanto Pradipta, S.Pt",082 533 0495,1,"Jl. Gegerkalong Hilir No. 777
+Probolinggo, Jambi 58263"
+31,Eka Marpaung,085 219 1647,4,"Gang Sadang Serang No. 85
+Banjar, YO 45323"
+32,"Pardi Wahyudin, M.M.",+62-10-216-2416,8,"Jalan S. Parman No. 40
+Tomohon, Maluku Utara 76966"
+33,Danuja Ramadan,0850896029,5,"Jalan Pelajar Pejuang No. 14
+Balikpapan, DKI Jakarta 71354"
+34,Fitriani Kurniawan,+62-0058-223-9624,5,"Gang Erlangga No. 783
+Jayapura, RI 59992"
+35,Ratih Mangunsong,(0955) 469 9654,5,"Jl. Pelajar Pejuang No. 91
+Bitung, Sulawesi Barat 26668"
+36,Raisa Pudjiastuti,+62 (074) 355-8081,8,"Gang Cikutra Barat No. 4
+Blitar, Kalimantan Timur 57589"
+37,KH. Emong Ardianto,+62-005-857-2226,8,"Jl. PHH. Mustofa No. 3
+Malang, MA 94110"
+38,Jinawi Prabowo,(0060) 647-7244,7,"Jalan Tebet Barat Dalam No. 6
+Bitung, Aceh 05385"
+39,"Sutan Umay Wastuti, M.Farm",+62 (622) 603 4314,4,"Jl. Soekarno Hatta No. 0
+Solok, JT 73712"
+40,"drg. Putu Nainggolan, S.Psi",+62 (0581) 422 5347,9,"Jl. Abdul Muis No. 311
+Meulaboh, BE 20742"
+41,"Adhiarja Lazuardi, M.Ak",+62-067-599-2495,6,"Jl. Dr. Djunjunan No. 238
+Subulussalam, PA 51833"
+42,"Samiah Mardhiyah, S.Psi",+62-035-268-9855,2,"Jl. Moch. Ramdan No. 18
+Batam, SS 28377"
+43,Malika Sudiati,0831914705,10,"Gg. Gardujati No. 738
+Tebingtinggi, KS 37229"
+44,Agnes Uwais,(0101) 566-1485,2,"Gang Dipatiukur No. 9
+Pekalongan, Jawa Barat 30874"
+45,Makuta Usamah,+62-624-104-9387,1,"Gang Kendalsari No. 317
+Pekalongan, Sulawesi Barat 69556"
+46,Kalim Saragih,+62-55-228-8286,7,"Jalan Cikutra Barat No. 2
+Purwokerto, JA 26857"
+47,Dr. Tami Rahimah,+62-0513-664-2516,3,"Gang Kebonjati No. 0
+Pariaman, SU 54401"
+48,Kamidin Marbun,+62 (0554) 882-2011,7,"Jl. Laswi No. 5
+Bau-Bau, BB 59866"
+49,Rangga Prastuti,+62-93-136-3841,1,"Gang Jend. A. Yani No. 2
+Sabang, JB 28859"
+50,Wulan Anggriawan,(027) 977-4913,3,"Jalan Rajiman No. 305
+Tual, SS 95539"
+51,Laksana Sirait,(074) 872 8356,9,"Jl. Jend. A. Yani No. 30
+Bandar Lampung, Aceh 57727"
+52,"Silvia Saefullah, S.E.",+62-009-634-4085,3,"Gg. Rungkut Industri No. 728
+Pontianak, ST 51282"
+53,Irnanto Sihombing,(086) 553-9088,1,"Jl. H.J Maemunah No. 463
+Bukittinggi, Jawa Tengah 10739"
+54,Wardi Santoso,+62 (037) 802 8596,2,"Gang Rajawali Barat No. 595
+Serang, Maluku Utara 33678"
+55,Jasmani Haryanti,+62 (0570) 685-2629,2,"Gang Laswi No. 654
+Samarinda, SU 80974"
+56,Gawati Nasyiah,(036) 816-9433,4,"Gg. Kutai No. 038
+Parepare, Sulawesi Barat 54095"
+57,"Dr. Oliva Dabukke, S.Gz",+62 (276) 792-9592,2,"Jl. M.H Thamrin No. 216
+Bekasi, Riau 98178"
+58,Kunthara Iswahyudi,+62 (029) 641 9310,9,"Gang W.R. Supratman No. 705
+Kota Administrasi Jakarta Utara, Bali 22926"
+59,Gandi Gunarto,+62 (051) 332-3191,2,"Jl. Rumah Sakit No. 0
+Payakumbuh, BE 88494"
+60,Ajiono Hakim,+62 (036) 263 0358,1,"Gang Siliwangi No. 4
+Makassar, Jawa Timur 98107"
+61,"Hj. Umi Setiawan, M.Pd",+62 (46) 774-3943,8,"Jl. HOS. Cokroaminoto No. 204
+Bau-Bau, Kalimantan Tengah 76495"
+62,"Ratih Lailasari, S.Sos",+62 (438) 896 0450,4,"Gang Ciwastra No. 99
+Padang Sidempuan, KU 97156"
+63,Lurhur Marbun,+62 (710) 332-0557,6,"Jalan Cihampelas No. 0
+Jayapura, Sumatera Selatan 57739"
+64,"Ir. Salsabila Irawan, S.IP",082 139 5649,2,"Gg. Jamika No. 8
+Mataram, DKI Jakarta 81912"
+65,Ir. Hasna Hutapea,+62 (28) 893 1838,10,"Gang Joyoboyo No. 7
+Langsa, SS 45361"
+66,Sutan Jaswadi Sitompul,+62-58-888-5033,3,"Gg. Cikutra Barat No. 1
+Sawahlunto, Aceh 08072"
+67,Kurnia Suartini,(0077) 949-2162,9,"Gang Setiabudhi No. 62
+Batu, ST 75091"
+68,R.A. Almira Hariyah,+62 (096) 875 3281,8,"Jalan M.H Thamrin No. 926
+Depok, Kalimantan Tengah 89322"
+69,"Melinda Maulana, S.I.Kom",+62 (014) 891-9271,10,"Gg. Joyoboyo No. 9
+Bontang, JI 74282"
+70,Kamaria Setiawan,+62-35-750-2979,6,"Gg. Pacuan Kuda No. 4
+Bekasi, GO 11045"
+71,"Dr. Okto Prasetyo, S.Ked",(0283) 907-0010,2,"Gg. Surapati No. 83
+Depok, KB 98113"
+72,Titin Situmorang,+62-061-133-6230,9,"Gg. Otto Iskandardinata No. 571
+Kota Administrasi Jakarta Barat, Maluku Utara 06486"
+73,Jayeng Pratama,(098) 206-9464,8,"Jl. Suniaraja No. 11
+Kota Administrasi Jakarta Utara, KI 69233"
+74,Gilda Simanjuntak,+62 (27) 101-9603,4,"Jl. Cihampelas No. 12
+Samarinda, GO 67575"
+75,"dr. Nabila Sihombing, M.Pd",0837851401,8,"Jl. Waringin No. 2
+Tual, YO 03822"
+76,Alika Usada,(097) 327 3068,10,"Gg. Otto Iskandardinata No. 7
+Ambon, JK 84655"
+77,Samsul Permata,+62 (065) 858-6460,5,"Jl. PHH. Mustofa No. 108
+Batam, Sulawesi Tenggara 60161"
+78,Mulyono Ramadan,+62-54-770-6745,6,"Gg. Sukajadi No. 1
+Bekasi, RI 26779"
+79,Halima Nuraini,0867975458,8,"Jl. Pasteur No. 196
+Denpasar, Sumatera Utara 27000"
+80,Irwan Haryanto,+62-0062-055-6558,10,"Jalan Rumah Sakit No. 5
+Metro, Kepulauan Riau 41638"
+81,Umi Wijaya,(0669) 784-7745,8,"Jalan Gardujati No. 8
+Lubuklinggau, KS 39129"
+82,Gasti Novitasari,0893146750,6,"Gang Stasiun Wonokromo No. 2
+Lubuklinggau, Sulawesi Barat 83870"
+83,"Sutan Karma Wastuti, M.Ak",(035) 910-6706,8,"Jalan Rajawali Barat No. 867
+Yogyakarta, Sulawesi Tengah 24853"
+84,Timbul Kuswoyo,(059) 369-9415,6,"Jl. Sadang Serang No. 658
+Tangerang Selatan, SU 61597"
+85,Warji Dongoran,+62 (036) 812 9257,2,"Gg. Jakarta No. 55
+Kota Administrasi Jakarta Utara, SS 92845"
+86,"Cinta Marpaung, S.Sos",+62-0507-364-6627,4,"Gang Ronggowarsito No. 02
+Kota Administrasi Jakarta Barat, JB 37491"
+87,Reza Narpati,0866626877,8,"Gang Dipatiukur No. 124
+Sungai Penuh, JT 93018"
+88,Siti Handayani,+62-71-829-4970,8,"Jalan Tebet Barat Dalam No. 92
+Jayapura, Jawa Timur 30460"
+89,Syahrini Narpati,+62 (0606) 981-6955,1,"Gg. Sentot Alibasa No. 70
+Balikpapan, SN 16421"
+90,"Lamar Pertiwi, S.Ked",+62-930-220-3736,10,"Jalan Sadang Serang No. 78
+Pontianak, KS 72992"
+91,Hasim Haryanti,(0655) 103 0153,4,"Gang Medokan Ayu No. 05
+Palopo, DI Yogyakarta 60615"
+92,Lanjar Wastuti,+62 (54) 675-5869,10,"Gang Jamika No. 598
+Pasuruan, Aceh 50542"
+93,"Empluk Haryanto, S.E.",+62 (099) 588 6239,2,"Jl. Kutai No. 1
+Batam, Papua 06757"
+94,"Tgk. Ibrani Pudjiastuti, M.Kom.",(070) 028-3661,2,"Jalan Kendalsari No. 208
+Sukabumi, Banten 48520"
+95,KH. Rafi Farida,+62 (074) 269-8026,3,"Gg. Otto Iskandardinata No. 579
+Purwokerto, ST 09600"
+96,Jumadi Jailani,(0844) 915-2601,3,"Gang Surapati No. 4
+Kotamobagu, Gorontalo 18554"
+97,"Bella Anggraini, S.Psi",+62 (145) 442 2131,8,"Jalan Joyoboyo No. 81
+Banjarbaru, Sulawesi Selatan 67530"
+98,Amalia Purwanti,+62-0353-303-4032,5,"Gang Tubagus Ismail No. 9
+Banjarmasin, DI Yogyakarta 07284"
+99,"Hj. Calista Hutapea, M.TI.",(031) 231 3006,4,"Jl. Joyoboyo No. 06
+Kota Administrasi Jakarta Barat, SG 20894"
+100,Tgk. Caraka Lestari,+62 (080) 542-6742,4,"Gg. Raya Ujungberung No. 6
+Banjarmasin, JB 87591"
+101,"Sutan Rizki Saputra, S.Pt",+62-030-643-0600,4,"Jl. Cikutra Timur No. 1
+Solok, SU 38018"
+102,Humaira Maheswara,+62 (206) 162-4168,7,"Gang W.R. Supratman No. 748
+Bekasi, Maluku 94081"
+103,Kamal Prasetyo,+62 (0566) 560-0526,3,"Jalan Jend. Sudirman No. 8
+Singkawang, SG 69813"
+104,Wardi Hidayat,+62 (016) 891-3432,7,"Gang Abdul Muis No. 85
+Magelang, SU 42939"
+105,Niyaga Laksita,+62 (0055) 252-2042,4,"Jl. Pacuan Kuda No. 6
+Tasikmalaya, DKI Jakarta 33521"
+106,"Dt. Among Padmasari, S.Gz",+62 (966) 984-6875,6,"Jl. Pasir Koja No. 7
+Cimahi, MU 11867"
+107,Atmaja Manullang,+62 (0972) 711 7106,8,"Jalan Ciumbuleuit No. 72
+Kota Administrasi Jakarta Timur, DKI Jakarta 18164"
+108,"Imam Thamrin, S.Gz",(0878) 798-9439,3,"Jl. Tebet Barat Dalam No. 22
+Surakarta, Sulawesi Tenggara 73041"
+109,"Dr. Zelaya Uyainah, S.Farm",(002) 676 7330,2,"Jalan Rawamangun No. 0
+Palopo, JT 89315"
+110,"Ir. Icha Nugroho, S.Pt",+62 (0135) 702-3556,2,"Jl. Medokan Ayu No. 144
+Surakarta, SR 32689"
+111,"R. Warji Haryanti, S.T.",+62 (067) 562-3705,6,"Gang Rajawali Barat No. 93
+Subulussalam, KR 93996"
+112,"Eka Rahimah, S.Pd",(078) 764-8181,3,"Jalan Moch. Toha No. 286
+Ambon, Jawa Barat 10874"
+113,"Victoria Narpati, M.Ak",+62-0122-105-0952,5,"Gang Indragiri No. 753
+Tanjungbalai, KR 13287"
+114,Cayadi Utama,+62 (27) 783 6440,4,"Jl. Kapten Muslihat No. 44
+Sorong, Jawa Tengah 16972"
+115,"dr. Jane Namaga, M.Pd",+62-096-172-3661,2,"Jalan Gegerkalong Hilir No. 81
+Mataram, PA 16208"
+116,Ir. Perkasa Wacana,0844498183,1,"Gang Rawamangun No. 29
+Tomohon, Nusa Tenggara Timur 70332"
+117,"Galar Ardianto, S.Ked",0847905983,10,"Gg. Indragiri No. 05
+Cimahi, KI 78329"
+118,KH. Danu Suwarno,+62 (08) 385 5068,3,"Jl. Pelajar Pejuang No. 56
+Serang, PB 80808"
+119,Lidya Hidayat,+62 (058) 013 0424,5,"Gg. Laswi No. 535
+Pangkalpinang, Riau 27272"
+120,Karman Tarihoran,(032) 864 8156,3,"Jl. W.R. Supratman No. 933
+Sungai Penuh, JI 21578"
+121,Vanya Dabukke,+62 (463) 676 4527,10,"Gg. Sentot Alibasa No. 66
+Tasikmalaya, Bengkulu 98996"
+122,Gamani Mandasari,0872713349,1,"Gang Otto Iskandardinata No. 2
+Palopo, KT 36377"
+123,Clara Manullang,+62-0242-067-8843,4,"Gang Sukajadi No. 0
+Tomohon, RI 99492"
+124,Sakura Sirait,+62 (433) 463-8442,4,"Jl. Astana Anyar No. 782
+Meulaboh, DI Yogyakarta 68030"
+125,Fitriani Dongoran,+62-58-523-0631,2,"Jl. Kapten Muslihat No. 79
+Batam, GO 21708"
+126,Iriana Lailasari,+62-806-734-9126,5,"Jalan Suniaraja No. 33
+Palembang, BT 43304"
+127,Karsa Sudiati,+62-368-073-8797,8,"Gang Rajawali Timur No. 612
+Tidore Kepulauan, SU 94631"
+128,Zamira Purnawati,(0730) 668 3503,10,"Gg. Setiabudhi No. 2
+Bandar Lampung, Banten 74258"
+129,"T. Kusuma Widodo, S.T.",085 866 4548,7,"Jl. R.E Martadinata No. 97
+Samarinda, KR 47539"
+130,Shania Gunarto,(099) 643 7784,5,"Jalan Raya Setiabudhi No. 5
+Kupang, SU 03840"
+131,Mumpuni Marbun,+62-0979-530-5459,1,"Gg. Kutisari Selatan No. 4
+Tebingtinggi, KS 38246"
+132,Dewi Pudjiastuti,+62 (62) 056 1983,5,"Gang Wonoayu No. 10
+Kendari, Sulawesi Tenggara 98659"
+133,"Sari Zulaika, M.Kom.",+62 (843) 099-8481,6,"Gang W.R. Supratman No. 431
+Bekasi, Lampung 35842"
+134,"Tira Sihombing, M.Farm",088 558 4192,9,"Jalan Dr. Djunjunan No. 21
+Bitung, SU 13565"
+135,"R.M. Ibrani Usamah, S.IP",+62-52-853-1370,4,"Gang Ir. H. Djuanda No. 751
+Pariaman, SU 17807"
+136,Hesti Nugroho,(0821) 007-4615,7,"Gang Moch. Toha No. 5
+Meulaboh, Jawa Timur 54989"
+137,Edi Rajata,+62-134-734-8643,7,"Gg. Rajiman No. 9
+Padang Sidempuan, Sulawesi Utara 51096"
+138,Cornelia Farida,+62-62-398-5901,2,"Gg. Raya Setiabudhi No. 708
+Banjar, SB 10078"
+139,Devi Pradipta,088 725 4509,4,"Jl. Tubagus Ismail No. 2
+Gorontalo, Nusa Tenggara Timur 95079"
+140,Okto Rahayu,+62-12-957-0492,3,"Jl. Asia Afrika No. 65
+Ternate, Aceh 51858"
+141,Laksana Uyainah,+62 (891) 926-8845,1,"Gg. Kendalsari No. 9
+Bandung, Jawa Barat 77804"
+142,Rahman Dabukke,+62 (13) 112 8066,7,"Gg. Otto Iskandardinata No. 423
+Palu, Sulawesi Utara 32313"
+143,Puti Pia Sudiati,(0025) 537 0380,3,"Gg. Rajiman No. 82
+Depok, Jawa Tengah 16809"
+144,"Ibrahim Sihombing, S.Sos",0856474263,1,"Jl. Erlangga No. 297
+Kota Administrasi Jakarta Selatan, KB 42881"
+145,Puti Shakila Nurdiyanti,+62 (77) 887 2091,3,"Jalan Kendalsari No. 5
+Kupang, Bali 63199"
+146,dr. Dian Agustina,0888377973,8,"Gg. Pasteur No. 9
+Dumai, KB 35748"
+147,Lutfan Rajasa,+62 (60) 498 9950,7,"Jl. Setiabudhi No. 7
+Pariaman, Kalimantan Selatan 34300"
+148,Opan Rajasa,+62 (0235) 108-5273,4,"Jalan Dipenogoro No. 1
+Subulussalam, JT 40766"
+149,Dt. Jasmani Iswahyudi,(0030) 601-1600,9,"Gang Monginsidi No. 9
+Padangpanjang, Kalimantan Selatan 81794"
+150,Latif Usada,(015) 775 0410,5,"Jl. Jamika No. 469
+Jambi, SR 88950"
+151,Dono Yuniar,+62 (569) 192 9203,7,"Jl. Sadang Serang No. 73
+Lubuklinggau, Jawa Timur 17443"
+152,Widya Hutasoit,+62-96-317-6650,10,"Jalan Cikapayang No. 3
+Cilegon, JT 61902"
+153,Cahyono Maheswara,+62 (054) 964-3443,8,"Jalan Kendalsari No. 830
+Bengkulu, YO 55929"
+154,R. Ulva Sitorus,+62 (024) 630-2794,2,"Jalan Ronggowarsito No. 885
+Banda Aceh, SU 75009"
+155,"KH. Respati Pradana, S.Pd",+62 (576) 011-5514,3,"Jalan M.H Thamrin No. 2
+Kota Administrasi Jakarta Barat, SG 58178"
+156,Maras Handayani,+62-0730-758-5145,4,"Gang Gardujati No. 9
+Bima, SG 63354"
+157,Chelsea Rahimah,+62-0952-439-1900,7,"Gg. Gardujati No. 4
+Balikpapan, Kepulauan Riau 60562"
+158,R. Kamila Saptono,+62 (13) 119-8019,6,"Gg. Suryakencana No. 9
+Samarinda, ST 18892"
+159,"Juli Nuraini, M.TI.",+62-018-968-5936,6,"Gang Rajawali Barat No. 40
+Bekasi, MA 63930"
+160,Artawan Wasita,(046) 537 4223,5,"Gg. Tubagus Ismail No. 010
+Padangpanjang, JT 66507"
+161,Makara Zulkarnain,+62 (417) 170 4072,7,"Gg. Dipatiukur No. 33
+Ambon, MA 63422"
+162,"R.A. Ina Nasyidah, S.Farm",(038) 837-7567,8,"Jalan Antapani Lama No. 60
+Binjai, Sumatera Utara 20637"
+163,"drg. Zelda Yuliarti, S.Ked",(087) 584 6474,5,"Gang Moch. Ramdan No. 6
+Palu, MU 78944"
+164,Ana Permata,(0172) 823 0307,1,"Jl. Jakarta No. 33
+Kediri, Nusa Tenggara Timur 17270"
+165,Violet Rahayu,+62-817-106-5455,2,"Jl. Raya Setiabudhi No. 7
+Parepare, JI 99553"
+166,Mursinin Wahyudin,+62 (446) 993 2119,2,"Gg. Suniaraja No. 13
+Payakumbuh, ST 03160"
+167,Rudi Yolanda,+62 (0697) 230 9523,6,"Jl. BKR No. 381
+Pariaman, Bengkulu 89804"
+168,Devi Lailasari,+62-99-667-6051,8,"Gg. Ahmad Yani No. 6
+Binjai, Papua 25008"
+169,Kayla Laksmiwati,+62 (78) 541 9619,3,"Gg. Otto Iskandardinata No. 2
+Pasuruan, JK 65516"
+170,"R.M. Ismail Maryadi, M.Ak",(096) 910 9987,5,"Jl. Surapati No. 21
+Tebingtinggi, KS 91730"
+171,Sari Santoso,(0983) 668 0526,2,"Jalan Dipenogoro No. 1
+Surabaya, NB 72593"
+172,Halima Palastri,084 335 9723,2,"Jl. Cihampelas No. 830
+Denpasar, SB 25260"
+173,"Puti Zulaikha Hardiansyah, S.IP",+62 (31) 776 4034,2,"Jl. Kendalsari No. 08
+Surabaya, GO 80464"
+174,Halima Irawan,(050) 699 8469,10,"Gang Jend. Sudirman No. 61
+Kota Administrasi Jakarta Barat, Gorontalo 85375"
+175,Tirta Yolanda,0820893016,9,"Gang Ahmad Dahlan No. 1
+Kediri, Kalimantan Utara 04445"
+176,Koko Kuswoyo,+62 (006) 239-4735,5,"Jalan KH Amin Jasuta No. 231
+Serang, Sumatera Barat 88496"
+177,Gilda Suryono,(014) 353 7872,7,"Gang Merdeka No. 079
+Padangpanjang, DKI Jakarta 07882"
+178,Prabu Narpati,+62-0624-727-8754,7,"Jalan Dr. Djunjunan No. 400
+Surakarta, Sulawesi Utara 21837"
+179,Paris Nurdiyanti,+62 (212) 529 2922,5,"Jalan Gedebage Selatan No. 469
+Lhokseumawe, Kalimantan Tengah 25792"
+180,"Baktianto Zulaika, S.Sos",+62 (0955) 316-4584,10,"Jl. Gegerkalong Hilir No. 91
+Mojokerto, Kalimantan Timur 47308"
+181,Caket Prasasta,(029) 939 3834,10,"Gang Siliwangi No. 82
+Palangkaraya, Gorontalo 72599"
+182,Raina Utama,(022) 649 9091,1,"Jalan HOS. Cokroaminoto No. 62
+Bengkulu, YO 03785"
+183,Lalita Sirait,+62-058-343-0418,10,"Jalan Pelajar Pejuang No. 0
+Pematangsiantar, KB 84775"
+184,Drs. Yulia Sihotang,+62 (01) 641 2785,10,"Gg. Cikutra Timur No. 2
+Denpasar, Sumatera Selatan 78711"
+185,Malika Suwarno,0866626465,4,"Jalan R.E Martadinata No. 911
+Samarinda, BB 51333"
+186,Elon Prasetya,+62 (57) 258 6748,5,"Jl. Pasteur No. 9
+Pasuruan, Sulawesi Utara 43313"
+187,Ir. Ida Megantara,+62 (063) 700-6111,6,"Gang Sukajadi No. 33
+Pematangsiantar, SN 48052"
+188,Sutan Gaiman Halimah,+62 (304) 713-3715,2,"Jl. M.H Thamrin No. 3
+Tebingtinggi, KS 63955"
+189,"dr. Nyoman Siregar, S.Pt",(098) 662 6847,8,"Jalan Waringin No. 3
+Jambi, DI Yogyakarta 48159"
+190,Yuni Latupono,+62 (615) 584-7875,2,"Gang Wonoayu No. 191
+Kota Administrasi Jakarta Timur, JT 65892"
+191,Usman Sitorus,+62 (008) 326-5000,3,"Jalan BKR No. 730
+Manado, Sulawesi Selatan 92279"
+192,Uchita Oktaviani,0856550048,4,"Jl. Tubagus Ismail No. 262
+Lubuklinggau, KU 54209"
+193,Maras Hidayat,+62 (056) 851-4309,7,"Gg. Ciwastra No. 76
+Tegal, Banten 53845"
+194,"Ir. Johan Hasanah, S.T.",+62 (077) 749-0189,10,"Gang Setiabudhi No. 75
+Malang, SS 92015"
+195,Bakianto Napitupulu,+62 (791) 912 1115,1,"Gg. Sukabumi No. 89
+Bengkulu, Sumatera Selatan 92373"
+196,Zulfa Wacana,(063) 437 7600,7,"Jl. Asia Afrika No. 1
+Jambi, Gorontalo 84712"
+197,Rina Rahayu,+62-37-285-0244,2,"Jalan Soekarno Hatta No. 62
+Prabumulih, KT 22472"
+198,"Lalita Puspasari, M.M.",+62-410-728-9880,3,"Jl. Surapati No. 144
+Probolinggo, YO 01889"
+199,"Kayun Rajasa, S.T.",+62 (51) 476-6638,1,"Gang Cihampelas No. 135
+Tebingtinggi, Jawa Timur 04975"
+200,KH. Wardaya Hutagalung,+62-0532-058-6098,5,"Gang Abdul Muis No. 99
+Pekalongan, Maluku Utara 98033"
+201,"Jasmin Wastuti, S.I.Kom",(0317) 535 4482,1,"Jl. Ronggowarsito No. 58
+Banjar, Jawa Tengah 59441"
+202,"Anita Suryatmi, M.Pd",+62 (06) 393 4482,9,"Gg. Ciumbuleuit No. 4
+Kupang, KT 32108"
+203,Harja Sirait,(039) 277-1189,6,"Gg. Soekarno Hatta No. 85
+Metro, JA 65422"
+204,Balapati Maulana,+62-0050-986-2714,2,"Jalan Pasir Koja No. 88
+Tebingtinggi, Nusa Tenggara Timur 19662"
+205,Farah Riyanti,+62 (005) 994 3827,10,"Gang Siliwangi No. 429
+Bandar Lampung, KS 72482"
+206,Dacin Rajasa,(0904) 204-6749,3,"Jl. Dipatiukur No. 668
+Pariaman, SU 15777"
+207,"Asirwada Damanik, S.Psi",(0875) 980-1240,8,"Jl. Suryakencana No. 3
+Probolinggo, SB 74653"
+208,Lasmanto Hariyah,+62 (0696) 500-7656,2,"Gang Setiabudhi No. 85
+Pasuruan, MU 04816"
+209,Raditya Mustofa,+62-0841-778-8292,2,"Gang Suniaraja No. 64
+Balikpapan, DI Yogyakarta 51138"
+210,Dr. Ajeng Tampubolon,+62 (855) 998 9266,2,"Jalan M.H Thamrin No. 300
+Binjai, DI Yogyakarta 73785"
+211,"Ami Maheswara, S.Sos",+62-031-446-5305,3,"Jalan BKR No. 95
+Kota Administrasi Jakarta Pusat, Maluku Utara 28318"
+212,"R. Salsabila Maulana, M.Ak",+62-564-730-0485,3,"Jalan Rungkut Industri No. 4
+Batam, ST 40094"
+213,Hani Aryani,(0925) 457 2922,10,"Gang Sentot Alibasa No. 868
+Prabumulih, Sulawesi Tenggara 12309"
+214,"R.M. Bambang Waskita, S.Gz",(0851) 231 4754,2,"Gg. Rajawali Barat No. 10
+Palopo, Kalimantan Utara 30340"
+215,Maida Puspita,(087) 526 2259,5,"Gg. Moch. Ramdan No. 464
+Sorong, KI 99892"
+216,Shania Zulkarnain,+62 (46) 016-4668,8,"Jl. Cihampelas No. 08
+Banjarmasin, Sulawesi Tengah 67788"
+217,Ami Hidayanto,0876819422,10,"Jalan Rajawali Timur No. 28
+Padang Sidempuan, Riau 01780"
+218,Halima Waskita,(048) 671-8870,9,"Jalan Erlangga No. 8
+Sukabumi, Sulawesi Tengah 16805"
+219,Luthfi Wijayanti,+62 (093) 341 4742,2,"Gg. Lembong No. 91
+Parepare, Sulawesi Selatan 53962"
+220,T. Rendy Mayasari,+62 (352) 266-6081,7,"Jl. R.E Martadinata No. 77
+Yogyakarta, Riau 16549"
+221,Cakrabirawa Dongoran,+62 (0793) 333-8428,5,"Gg. Erlangga No. 298
+Purwokerto, JK 14163"
+222,Usyi Farida,+62-58-886-1769,4,"Jalan Dipenogoro No. 8
+Tidore Kepulauan, KS 57970"
+223,"Kamaria Mansur, M.Farm",+62 (0852) 083-6015,6,"Jl. Bangka Raya No. 643
+Lhokseumawe, KI 64205"
+224,Mila Halimah,0864622359,4,"Jalan Cikutra Barat No. 42
+Kota Administrasi Jakarta Utara, JT 27877"
+225,Waluyo Prakasa,(0780) 359 8784,9,"Jalan Kapten Muslihat No. 99
+Cirebon, LA 47361"
+226,"Ir. Ellis Sudiati, S.Ked",+62-63-497-6682,10,"Gang BKR No. 28
+Cirebon, Papua 51509"
+227,Carla Kuswoyo,+62 (655) 332-1251,3,"Gg. Sentot Alibasa No. 611
+Bekasi, Maluku 92432"
+228,Ihsan Kurniawan,(0169) 895 3308,9,"Gang Ir. H. Djuanda No. 67
+Ambon, Kepulauan Bangka Belitung 68482"
+229,Maya Ramadan,+62 (58) 520 3521,4,"Gg. Laswi No. 053
+Samarinda, Sulawesi Tengah 35977"
+230,Hj. Zizi Purwanti,+62 (0358) 716 7747,8,"Gang Bangka Raya No. 71
+Semarang, Jambi 84630"
+231,Patricia Mardhiyah,(0548) 446 9919,4,"Gg. Jend. A. Yani No. 4
+Pagaralam, KT 06953"
+232,Digdaya Santoso,086 902 6122,3,"Gg. Ahmad Dahlan No. 9
+Jayapura, SU 82477"
+233,Mala Suwarno,+62-22-292-1887,9,"Jalan Kapten Muslihat No. 7
+Madiun, JT 48309"
+234,Gilang Zulkarnain,+62 (18) 731-3107,7,"Gang Ciumbuleuit No. 872
+Cimahi, Kalimantan Tengah 15123"
+235,Umaya Maheswara,+62 (086) 096 7075,7,"Jl. Abdul Muis No. 996
+Bandung, Sumatera Utara 23347"
+236,Eluh Budiyanto,(0469) 161-2797,1,"Jalan Joyoboyo No. 567
+Langsa, PB 68974"
+237,Kenzie Yuniar,+62-005-087-0287,3,"Gang Kapten Muslihat No. 329
+Bandar Lampung, SS 43330"
+238,Galang Pratama,+62 (33) 396 8312,3,"Jl. Veteran No. 249
+Sawahlunto, Sulawesi Barat 04833"
+239,Chelsea Kusmawati,+62 (429) 581-3499,10,"Gg. Pacuan Kuda No. 87
+Medan, PB 50319"
+240,"Ophelia Megantara, S.Ked",+62-0478-458-8672,6,"Jl. Cihampelas No. 06
+Batu, NB 24957"
+241,Calista Saragih,+62 (0737) 942-9407,10,"Jl. Ronggowarsito No. 4
+Banjarmasin, Kalimantan Barat 82094"
+242,Shakila Nurdiyanti,+62-037-828-2101,1,"Jl. Jend. Sudirman No. 664
+Bekasi, LA 97423"
+243,Bagas Simbolon,+62-077-866-2040,5,"Jl. Rajawali Barat No. 7
+Jayapura, Jawa Barat 30236"
+244,Dt. Gading Damanik,+62 (98) 148 0526,3,"Jl. Cihampelas No. 7
+Pariaman, Papua 56017"
+245,"Sutan Kalim Sihombing, S.Pd",+62 (047) 906 8044,8,"Jalan Jend. A. Yani No. 071
+Tasikmalaya, PA 41265"
+246,Sutan Jamal Riyanti,+62 (097) 563 6164,3,"Jalan Indragiri No. 0
+Kota Administrasi Jakarta Utara, Jambi 14249"
+247,Samiah Padmasari,+62-45-399-6672,10,"Gang Suniaraja No. 4
+Tomohon, JB 31518"
+248,Gina Melani,+62 (043) 142 8585,8,"Jalan Merdeka No. 890
+Bukittinggi, Lampung 03417"
+249,Cakrawangsa Prabowo,084 605 8060,5,"Jl. Rumah Sakit No. 90
+Pontianak, Maluku 24573"
+250,Humaira Wibisono,+62-050-233-7639,2,"Gg. Stasiun Wonokromo No. 70
+Pasuruan, Gorontalo 89277"
+251,Maria Hutasoit,+62 (092) 673 3137,5,"Jl. Waringin No. 568
+Tidore Kepulauan, JA 96050"
+252,Cagak Dabukke,+62 (490) 329 9206,7,"Jl. Medokan Ayu No. 44
+Cirebon, Jawa Barat 26323"
+253,Samiah Mansur,+62-511-396-1180,5,"Jl. Kutai No. 017
+Banda Aceh, Banten 68610"
+254,Luwes Kusmawati,+62 (603) 010 3523,5,"Gang Setiabudhi No. 88
+Pontianak, Sulawesi Selatan 33971"
+255,Jumadi Tampubolon,+62-018-198-8708,8,"Jalan HOS. Cokroaminoto No. 96
+Tanjungpinang, GO 62819"
+256,"Karja Natsir, S.H.",+62-363-493-5916,10,"Gg. Joyoboyo No. 774
+Surabaya, Sulawesi Utara 04814"
+257,Bakiman Maryadi,+62-80-747-3813,4,"Jl. R.E Martadinata No. 8
+Tarakan, SU 59645"
+258,Yuni Mangunsong,(034) 977-7535,9,"Jl. Ir. H. Djuanda No. 9
+Jambi, BA 03061"
+259,R. Galang Suryono,(035) 878-8463,5,"Jalan Kapten Muslihat No. 59
+Pariaman, KR 94074"
+260,"Tgk. Jarwi Prakasa, M.Farm",+62 (314) 190 1819,9,"Jalan Pasteur No. 55
+Sawahlunto, Sulawesi Tenggara 93360"
+261,Gasti Uwais,+62 (510) 642-3240,8,"Gang Cempaka No. 42
+Bima, JA 98160"
+262,Yance Kusumo,+62 (42) 783 8827,4,"Gang Rungkut Industri No. 3
+Meulaboh, NT 52655"
+263,Asirwada Waluyo,+62 (169) 418-9387,4,"Jalan Moch. Ramdan No. 70
+Kota Administrasi Jakarta Timur, KI 29251"
+264,Icha Sinaga,+62 (17) 328-5150,3,"Gg. Monginsidi No. 072
+Meulaboh, JB 21421"
+265,Gawati Rajasa,+62-013-804-1121,4,"Gg. Kapten Muslihat No. 171
+Mataram, Jambi 78859"
+266,Gara Laksita,0855191243,1,"Gg. M.H Thamrin No. 3
+Malang, YO 94025"
+267,Cemplunk Hakim,+62 (97) 916-2187,8,"Gg. Ronggowarsito No. 95
+Jambi, SS 91694"
+268,Rendy Puspasari,(0665) 458 2134,1,"Jl. Lembong No. 36
+Kendari, DI Yogyakarta 44707"
+269,Heryanto Purnawati,+62-278-611-8008,2,"Jalan Kapten Muslihat No. 2
+Solok, Sulawesi Utara 23335"
+270,Halima Marpaung,+62 (835) 468 4964,1,"Gang Stasiun Wonokromo No. 83
+Binjai, NT 55698"
+271,"Puti Kasiyah Padmasari, S.Ked",0863771977,1,"Jl. Peta No. 2
+Parepare, Jawa Tengah 80993"
+272,Gadang Yuniar,(034) 375 0474,9,"Gg. HOS. Cokroaminoto No. 9
+Kota Administrasi Jakarta Timur, SU 86802"
+273,"Legawa Samosir, S.Pt",0835512106,4,"Gg. Kapten Muslihat No. 69
+Kota Administrasi Jakarta Timur, SR 22446"
+274,Ella Laksita,+62 (031) 567 3908,10,"Gang R.E Martadinata No. 0
+Probolinggo, KB 99364"
+275,Wakiman Megantara,+62 (0202) 213-4360,1,"Gg. Cikutra Barat No. 6
+Surabaya, SU 19472"
+276,"Warji Latupono, S.Psi",(018) 469-1192,1,"Jalan Kiaracondong No. 6
+Balikpapan, RI 08762"
+277,"dr. Langgeng Prasasta, S.E.I",(0114) 681-1668,9,"Gang Indragiri No. 508
+Langsa, DI Yogyakarta 76578"
+278,Ir. Ayu Uwais,0803745797,8,"Gang Jakarta No. 3
+Gorontalo, JT 48396"
+279,Drs. Nadia Tampubolon,084 662 6527,4,"Jalan K.H. Wahid Hasyim No. 9
+Bukittinggi, Sulawesi Selatan 86413"
+280,Malika Prakasa,+62 (10) 188-3521,10,"Gg. Dr. Djunjunan No. 34
+Bekasi, Kalimantan Tengah 98879"
+281,Mutia Halimah,+62 (906) 865-6057,8,"Jalan Rumah Sakit No. 76
+Kota Administrasi Jakarta Barat, Aceh 13994"
+282,Malik Permadi,+62 (09) 531 0523,6,"Gang Cihampelas No. 49
+Bontang, Gorontalo 01932"
+283,Usyi Kuswandari,083 663 7791,3,"Gang Rajawali Barat No. 74
+Semarang, BE 64235"
+284,Emas Widodo,+62 (0117) 537-3736,1,"Jl. H.J Maemunah No. 35
+Bandar Lampung, Banten 64053"
+285,"R. Zulfa Pradipta, S.Sos",(0295) 245 6948,7,"Gang Jakarta No. 3
+Pariaman, BB 65653"
+286,"Hafshah Thamrin, M.Pd",(0457) 346-2350,1,"Jalan BKR No. 031
+Tanjungpinang, SG 30052"
+287,Dartono Mustofa,(0781) 099 3931,9,"Gang Sukabumi No. 38
+Medan, Jawa Tengah 86434"
+288,"Fathonah Winarsih, S.Kom",(0498) 653 2920,3,"Gg. Pasteur No. 38
+Batam, MA 01388"
+289,Nadia Halim,+62 (21) 665 6684,6,"Gang Jakarta No. 3
+Bandar Lampung, Kalimantan Timur 48120"
+290,"Drs. Arta Safitri, S.I.Kom",(0012) 135-7283,3,"Gang S. Parman No. 65
+Sibolga, KU 74205"
+291,"Sutan Agus Ardianto, M.TI.",(0917) 557-7757,7,"Jl. Cikutra Barat No. 55
+Surakarta, Maluku Utara 33435"
+292,"R.A. Titi Hutapea, S.E.I",+62 (033) 272-4360,4,"Gang K.H. Wahid Hasyim No. 834
+Bontang, KI 83376"
+293,"Tantri Mansur, S.E.",+62 (68) 114 3862,3,"Jl. Jend. A. Yani No. 3
+Tarakan, Sumatera Selatan 21453"
+294,"Kasiyah Habibi, S.Psi",+62 (039) 356-9065,5,"Gang K.H. Wahid Hasyim No. 75
+Banda Aceh, NB 96800"
+295,"Raisa Pranowo, S.T.",(005) 103-7742,7,"Gang Antapani Lama No. 92
+Tanjungbalai, BA 85197"
+296,Ir. Anita Mustofa,+62 (089) 114 9403,5,"Gang Medokan Ayu No. 783
+Balikpapan, KR 54298"
+297,"Sutan Opan Pratama, S.Psi",081 430 4902,1,"Gg. Joyoboyo No. 175
+Pekanbaru, Kalimantan Utara 71713"
+298,"Gamblang Siregar, M.TI.",+62 (91) 549 7498,9,"Gang Pasteur No. 7
+Bandung, NB 57196"
+299,Nova Pradana,+62 (064) 985 8229,8,"Jl. Cihampelas No. 1
+Malang, MA 81887"
+300,"Bakiman Hasanah, S.Ked",+62 (418) 643 0989,8,"Jl. Dipatiukur No. 143
+Manado, JI 72308"
+301,H. Wasis Laksmiwati,(0220) 429-3135,3,"Gang Suniaraja No. 584
+Pematangsiantar, Riau 18390"
+302,Intan Nurdiyanti,+62 (0632) 630-6972,5,"Gang Joyoboyo No. 08
+Subulussalam, KR 09577"
+303,Cici Nainggolan,+62 (0316) 714-4937,6,"Gang Peta No. 7
+Langsa, KR 25092"
+304,Edison Suartini,+62 (72) 020-9438,1,"Jl. Asia Afrika No. 7
+Bengkulu, Maluku Utara 98350"
+305,R.M. Akarsana Rahayu,+62 (83) 945-8049,3,"Gg. Sukajadi No. 643
+Bitung, Papua Barat 23536"
+306,R.M. Atmaja Kuswandari,085 467 4076,7,"Jalan Ciumbuleuit No. 8
+Cimahi, Riau 48272"
+307,Bakti Situmorang,(071) 173-1115,2,"Gg. Suryakencana No. 78
+Madiun, SU 23148"
+308,Paris Nugroho,(0751) 477 9688,1,"Gg. Moch. Ramdan No. 439
+Kota Administrasi Jakarta Timur, Jambi 30898"
+309,Juli Kuswandari,+62-079-943-6559,7,"Jl. R.E Martadinata No. 1
+Semarang, Sumatera Selatan 32026"
+310,Tasdik Latupono,+62 (900) 522 7252,8,"Gg. BKR No. 61
+Palu, Riau 18162"
+311,Bakiadi Zulaika,+62 (076) 405 9044,3,"Gg. Jend. A. Yani No. 5
+Padangpanjang, NT 94572"
+312,"Faizah Sinaga, M.Kom.",+62 (45) 802-7998,3,"Jalan H.J Maemunah No. 680
+Kendari, YO 31091"
+313,"Umaya Purwanti, S.Psi",+62-001-304-8299,3,"Gg. Laswi No. 549
+Mataram, ST 63308"
+314,Harjaya Prastuti,(022) 094-3162,5,"Jl. Cikutra Barat No. 881
+Metro, Sulawesi Tenggara 73273"
+315,Naradi Kusmawati,+62-091-655-1416,6,"Gang BKR No. 21
+Binjai, Gorontalo 49230"
+316,Laswi Wacana,+62-086-100-0177,1,"Gg. Pacuan Kuda No. 089
+Kotamobagu, Maluku Utara 30635"
+317,Farah Hastuti,+62 (52) 868-6092,10,"Jalan R.E Martadinata No. 48
+Bontang, Maluku 59954"
+318,Dina Usamah,(0985) 289 4235,10,"Gang Kutisari Selatan No. 856
+Salatiga, Sumatera Selatan 03808"
+319,Muhammad Tampubolon,+62-06-503-9862,2,"Gang Ciumbuleuit No. 48
+Sibolga, Kalimantan Tengah 45366"
+320,"Fitriani Wahyuni, S.Kom",(0595) 129 1007,1,"Jalan Ir. H. Djuanda No. 9
+Batu, YO 33116"
+321,Utama Uyainah,0860047295,4,"Gang HOS. Cokroaminoto No. 13
+Bekasi, MU 15546"
+322,Vanya Tarihoran,+62 (450) 731 4945,5,"Jl. Rawamangun No. 73
+Bontang, Jawa Barat 76415"
+323,Putri Handayani,(0348) 840-3795,9,"Jalan Otto Iskandardinata No. 424
+Bukittinggi, Kalimantan Utara 93827"
+324,Zelda Maheswara,+62-701-549-2298,7,"Jl. Raya Setiabudhi No. 9
+Palopo, MU 29022"
+325,"Ir. Paris Laksmiwati, S.Sos",+62 (043) 010 4787,1,"Gg. HOS. Cokroaminoto No. 372
+Balikpapan, Jawa Tengah 42151"
+326,"R. Dalimin Gunawan, S.Ked",(065) 298-7119,4,"Jalan Setiabudhi No. 3
+Surakarta, Sulawesi Tengah 73567"
+327,Nasim Dongoran,(071) 856 1632,7,"Gg. Monginsidi No. 32
+Sibolga, Aceh 80301"
+328,Drs. Simon Nainggolan,+62 (044) 593 8623,5,"Jalan Cikutra Timur No. 52
+Serang, Nusa Tenggara Barat 00863"
+329,Candrakanta Susanti,+62 (032) 259 3577,6,"Gang Tubagus Ismail No. 8
+Tidore Kepulauan, LA 61722"
+330,R. Farah Samosir,+62 (145) 259-0707,2,"Jl. Tebet Barat Dalam No. 21
+Batam, Aceh 35237"
+331,H. Cahya Tamba,+62 (954) 954 6961,9,"Jl. H.J Maemunah No. 40
+Pekalongan, KU 57319"
+332,Galih Wasita,(0704) 291 5071,4,"Gang K.H. Wahid Hasyim No. 88
+Pekalongan, SU 36555"
+333,Aisyah Latupono,+62 (881) 824 5167,9,"Jl. Kendalsari No. 8
+Sibolga, RI 52347"
+334,Lintang Marpaung,(017) 410 6639,9,"Jl. Cihampelas No. 51
+Yogyakarta, JK 97328"
+335,Cornelia Riyanti,+62 (0276) 132 5324,3,"Gg. Stasiun Wonokromo No. 23
+Ternate, Papua 50525"
+336,Tantri Uwais,0841548120,10,"Gang Setiabudhi No. 65
+Medan, Jambi 60462"
+337,Titi Palastri,(0293) 928 3213,3,"Gang Sadang Serang No. 1
+Samarinda, Maluku Utara 45135"
+338,R.A. Gilda Hutasoit,089 057 2825,5,"Jalan Kapten Muslihat No. 5
+Pekanbaru, MA 18332"
+339,"R.M. Jayadi Dabukke, S.Ked",+62 (267) 236-4470,1,"Gang H.J Maemunah No. 2
+Palangkaraya, BB 47291"
+340,"Belinda Wibowo, S.Ked",+62-46-796-7786,7,"Gg. Soekarno Hatta No. 917
+Samarinda, Sulawesi Tenggara 17413"
+341,"R. Kalim Mardhiyah, S.T.",+62 (58) 004 3935,8,"Jalan PHH. Mustofa No. 359
+Sabang, Sulawesi Barat 55432"
+342,"Drs. Upik Novitasari, S.H.",0876188052,7,"Gg. Sukajadi No. 486
+Purwokerto, BT 67467"
+343,Cut Diah Wijayanti,(0840) 622 2580,7,"Gg. HOS. Cokroaminoto No. 0
+Palopo, Kalimantan Selatan 33582"
+344,"Jumari Pudjiastuti, M.Kom.",082 878 4881,10,"Jalan Ciumbuleuit No. 63
+Samarinda, Kepulauan Riau 60546"
+345,Novi Maulana,+62 (312) 668-3211,1,"Jalan Cihampelas No. 79
+Tanjungpinang, Kepulauan Riau 22095"
+346,Ika Uyainah,(094) 193 4698,4,"Jalan Stasiun Wonokromo No. 640
+Metro, KT 43763"
+347,Enteng Setiawan,+62-0301-796-1956,10,"Gg. Cempaka No. 47
+Prabumulih, JK 22235"
+348,Baktiadi Pratiwi,+62-82-446-6690,4,"Gang Sukabumi No. 414
+Sorong, Jawa Timur 84964"
+349,"Agnes Firmansyah, S.Pt",(022) 396-7087,7,"Gg. Soekarno Hatta No. 8
+Ternate, GO 32846"
+350,"Jagaraga Utami, M.Pd",089 242 1923,7,"Gg. R.E Martadinata No. 329
+Batam, JI 56402"
+351,Kenes Melani,+62 (703) 103 7120,5,"Gg. Kutisari Selatan No. 7
+Lhokseumawe, Bengkulu 66755"
+352,"Jane Saragih, S.Gz",+62-0608-573-1103,7,"Jalan Erlangga No. 8
+Payakumbuh, Kalimantan Selatan 76200"
+353,Luis Megantara,+62 (037) 239 3590,3,"Jl. Sadang Serang No. 59
+Sabang, SG 20834"
+354,"Tgk. Victoria Nasyiah, S.Farm",+62-0874-029-9553,2,"Gang Pasteur No. 97
+Payakumbuh, Gorontalo 53282"
+355,R.M. Wardi Waluyo,+62 (04) 035-0606,2,"Gg. Pasir Koja No. 1
+Jambi, Bali 24786"
+356,Queen Zulkarnain,+62 (0289) 813-3069,9,"Jalan Yos Sudarso No. 426
+Prabumulih, Sulawesi Tenggara 57563"
+357,"Emin Maryati, S.Gz",+62 (0733) 353 9218,8,"Gg. Moch. Ramdan No. 4
+Depok, Riau 92755"
+358,drg. Melinda Kuswandari,(0255) 714-9292,10,"Jalan Moch. Toha No. 834
+Ambon, KU 88621"
+359,Bancar Hastuti,+62 (061) 716-1145,3,"Gang Ahmad Yani No. 02
+Tasikmalaya, Kalimantan Barat 32897"
+360,"R.A. Nadia Lestari, S.Psi",(074) 345-5146,5,"Jl. Cihampelas No. 195
+Pasuruan, Sulawesi Barat 92089"
+361,R. Irma Prasasta,+62 (03) 302 9651,5,"Jalan Waringin No. 4
+Dumai, Sulawesi Utara 97282"
+362,"Ir. Rahmi Nasyidah, S.H.",+62-079-981-4760,4,"Gang Ciwastra No. 5
+Kupang, JA 68896"
+363,Gasti Budiman,(059) 819-3263,2,"Gg. Yos Sudarso No. 1
+Gorontalo, Jambi 20554"
+364,Jono Anggriawan,+62-360-714-3182,1,"Gg. Kapten Muslihat No. 037
+Purwokerto, SR 05511"
+365,Umi Laksmiwati,+62-97-296-2445,8,"Gg. Medokan Ayu No. 175
+Kupang, Kalimantan Barat 45811"
+366,Gantar Januar,+62 (83) 341-0567,4,"Gang Jayawijaya No. 69
+Pariaman, Kalimantan Barat 69045"
+367,Puti Yunita Sihombing,+62-0078-104-2998,3,"Gg. Ciwastra No. 163
+Sungai Penuh, JB 74639"
+368,"Ir. Teddy Lazuardi, M.Farm",+62 (0362) 954-3309,1,"Gang Stasiun Wonokromo No. 058
+Palangkaraya, Bengkulu 10142"
+369,Gasti Sihotang,+62 (0005) 418 1977,4,"Jl. Ciumbuleuit No. 4
+Tebingtinggi, Jawa Tengah 62894"
+370,Among Maryati,+62-0045-884-2585,5,"Jalan Sukabumi No. 834
+Manado, SG 98221"
+371,Hasim Mardhiyah,+62 (94) 232-6247,6,"Gg. BKR No. 2
+Pekalongan, KS 23610"
+372,Sutan Wardi Ardianto,+62 (002) 719-5219,1,"Jl. Kutisari Selatan No. 25
+Gorontalo, LA 21473"
+373,Wakiman Waluyo,+62 (0989) 326 5141,5,"Gg. Kapten Muslihat No. 16
+Cirebon, Bengkulu 63007"
+374,Jelita Nababan,(099) 011-1585,3,"Gang Ciumbuleuit No. 259
+Kota Administrasi Jakarta Barat, Sumatera Barat 64173"
+375,"Almira Wastuti, S.I.Kom",(0783) 014-7833,5,"Jl. Moch. Toha No. 1
+Bitung, Lampung 14691"
+376,Budi Nainggolan,+62 (80) 434 1343,9,"Jl. Jakarta No. 454
+Tanjungpinang, Bali 92649"
+377,Nyoman Suwarno,+62 (92) 717-9517,1,"Gang K.H. Wahid Hasyim No. 818
+Cirebon, JB 61957"
+378,"Rika Maulana, S.Sos",+62 (0079) 010-5448,3,"Gg. Yos Sudarso No. 59
+Binjai, BA 90805"
+379,"Tgk. Legawa Hassanah, S.Pd",0809202503,9,"Jl. Raya Setiabudhi No. 2
+Singkawang, Nusa Tenggara Barat 83396"
+380,Kacung Siregar,+62-15-041-6255,6,"Gang Pacuan Kuda No. 38
+Cirebon, Sulawesi Barat 32518"
+381,Irma Hutagalung,+62 (0164) 825 9765,6,"Jalan Kendalsari No. 9
+Cilegon, BE 68269"
+382,"Limar Marpaung, S.Pt",+62 (0686) 080 9178,8,"Gg. Raya Setiabudhi No. 1
+Tomohon, BT 34500"
+383,Dr. Hairyanto Suwarno,(094) 783-1313,2,"Jl. Raya Ujungberung No. 814
+Subulussalam, LA 83580"
+384,Patricia Napitupulu,+62 (0262) 024 4292,1,"Gg. Bangka Raya No. 1
+Parepare, Jambi 09252"
+385,Jarwadi Pratiwi,+62-38-814-1852,7,"Gg. Antapani Lama No. 253
+Tanjungpinang, KT 60478"
+386,Prabowo Safitri,+62-0409-770-1617,5,"Jl. Cikutra Timur No. 143
+Bitung, Bali 04947"
+387,Dr. Dalima Hartati,(084) 051-7298,3,"Jl. Jend. A. Yani No. 79
+Tomohon, JB 88546"
+388,Putri Hutasoit,(014) 424-6788,10,"Gg. Gegerkalong Hilir No. 20
+Mojokerto, MA 99576"
+389,Hj. Elma Pranowo,(0896) 254-6327,3,"Gg. Laswi No. 168
+Mojokerto, Kalimantan Tengah 62057"
+390,"Ana Hasanah, S.IP",+62 (0306) 319-7999,3,"Gg. Jakarta No. 244
+Batam, KB 49977"
+391,"Irfan Wahyudin, S.Pd",+62-364-088-2216,6,"Jalan Jend. A. Yani No. 96
+Kendari, Kalimantan Utara 70988"
+392,Safina Prasetya,+62 (004) 016-8983,8,"Gg. Ciwastra No. 261
+Lubuklinggau, JK 23502"
+393,Bahuwirya Sitompul,(0189) 930-1879,5,"Jalan BKR No. 500
+Pematangsiantar, Kalimantan Timur 84134"
+394,Wadi Pratama,+62 (002) 832 2191,6,"Gang Moch. Ramdan No. 01
+Gorontalo, YO 16356"
+395,Puji Mustofa,(055) 389 2411,8,"Gang Astana Anyar No. 39
+Medan, Jawa Tengah 66884"
+396,Hilda Tarihoran,+62 (0564) 262 4199,1,"Jl. Pacuan Kuda No. 1
+Surabaya, Kalimantan Timur 42189"
+397,Viktor Sudiati,+62 (74) 619-7840,6,"Gang Jamika No. 657
+Bekasi, Jambi 94681"
+398,"Wulan Nainggolan, S.IP",0815923462,3,"Gang Pasirkoja No. 1
+Bitung, KB 09685"
+399,"dr. Nalar Lailasari, M.Pd",(012) 818 7626,6,"Gg. M.T Haryono No. 0
+Bandar Lampung, AC 22711"
+400,"Galar Wahyuni, S.Sos",0829757781,7,"Jl. Suniaraja No. 220
+Payakumbuh, SR 70339"
+401,drg. Patricia Siregar,(0720) 748-7580,5,"Gang Pasteur No. 09
+Palopo, SN 14269"
+402,"Dr. Heru Simbolon, M.TI.",(076) 679-5406,2,"Gang Kebonjati No. 954
+Pekanbaru, Gorontalo 00869"
+403,Arsipatra Utama,(0768) 914-2812,4,"Jl. Cihampelas No. 89
+Tanjungpinang, Kepulauan Bangka Belitung 27696"
+404,Erik Adriansyah,+62 (0105) 736 1863,6,"Gg. Lembong No. 271
+Banda Aceh, Kepulauan Bangka Belitung 20342"
+405,Mulya Novitasari,+62-021-258-4729,1,"Jalan Kiaracondong No. 623
+Samarinda, SN 53048"
+406,"Drs. Baktiadi Prayoga, S.I.Kom",+62 (065) 564-9681,5,"Gang Moch. Toha No. 0
+Cimahi, BE 64041"
+407,Cindy Sudiati,+62-942-315-4602,9,"Gg. Dipatiukur No. 616
+Mojokerto, NB 67602"
+408,Vera Pangestu,+62 (024) 310 8644,4,"Jalan Kapten Muslihat No. 36
+Kediri, Nusa Tenggara Barat 96532"
+409,"Harjo Prayoga, S.Farm",+62-0509-605-2545,8,"Gang Raya Setiabudhi No. 82
+Tual, ST 55413"
+410,Latika Suryatmi,+62 (093) 280 7542,4,"Jalan Yos Sudarso No. 8
+Pekalongan, Sumatera Selatan 82254"
+411,Vera Safitri,+62 (0795) 600-9468,5,"Jalan KH Amin Jasuta No. 125
+Tidore Kepulauan, PB 58522"
+412,"Dt. Galak Hakim, S.E.I",(082) 698-6488,9,"Jalan Dipenogoro No. 4
+Singkawang, SS 55846"
+413,Bahuwirya Melani,+62 (0823) 281 6936,3,"Gang S. Parman No. 43
+Sorong, SN 41466"
+414,Tina Haryanti,(0847) 751-1584,7,"Gang Asia Afrika No. 4
+Bitung, Kepulauan Bangka Belitung 69528"
+415,T. Hardana Anggraini,(095) 659-4400,7,"Gang Ahmad Dahlan No. 265
+Cilegon, SN 46506"
+416,Kalim Lestari,+62 (832) 485-1232,2,"Gg. Dipatiukur No. 7
+Palu, Jawa Barat 65187"
+417,Fitriani Puspita,0817528242,6,"Jl. Kebonjati No. 5
+Langsa, DKI Jakarta 58571"
+418,"Hj. Fathonah Halim, S.Pd",+62-07-135-5090,2,"Gang Monginsidi No. 16
+Parepare, KB 46814"
+419,"Tgk. Hamima Utama, S.Kom",(068) 377-3140,8,"Jl. Soekarno Hatta No. 6
+Palangkaraya, Papua 95883"
+420,"R.M. Sakti Hakim, M.Kom.",+62-0679-237-8268,6,"Gang Ronggowarsito No. 418
+Samarinda, Kalimantan Barat 50557"
+421,"Tgk. Umar Prayoga, S.Sos",+62 (073) 030-9770,2,"Gang Surapati No. 58
+Ternate, KT 57525"
+422,Wani Puspasari,(025) 954-6089,8,"Jalan Monginsidi No. 66
+Madiun, ST 34375"
+423,"Yani Winarsih, S.Psi",+62-85-142-6631,8,"Jalan Suniaraja No. 0
+Kendari, Jawa Tengah 78600"
+424,Oni Winarno,+62 (009) 019 2140,2,"Jalan K.H. Wahid Hasyim No. 50
+Kotamobagu, Sulawesi Selatan 07541"
+425,Hari Wastuti,+62-29-249-0775,9,"Gg. Gedebage Selatan No. 23
+Palu, Lampung 81337"
+426,Drs. Silvia Tamba,+62-0008-073-9911,7,"Jl. S. Parman No. 445
+Tangerang, DKI Jakarta 88860"
+427,Fathonah Ramadan,+62-0582-471-8105,6,"Jalan Pasir Koja No. 692
+Bau-Bau, Sumatera Selatan 69093"
+428,Joko Prabowo,+62-23-603-1403,1,"Jl. Rawamangun No. 2
+Sabang, NT 27659"
+429,"Baktiadi Rajata, S.T.",+62 (39) 992 5582,5,"Gg. Jayawijaya No. 9
+Tasikmalaya, Banten 82090"
+430,Bambang Prastuti,+62 (44) 297 6785,10,"Jl. Ahmad Yani No. 281
+Banjar, Sumatera Barat 15815"
+431,"Siti Firmansyah, S.Farm",(0810) 227 2788,6,"Jl. Rawamangun No. 758
+Pariaman, Kalimantan Selatan 04409"
+432,Qori Wibowo,(0793) 653 2086,10,"Jl. Otto Iskandardinata No. 5
+Salatiga, Kepulauan Riau 05362"
+433,Raisa Purwanti,(075) 975-4347,2,"Jalan Kendalsari No. 7
+Singkawang, LA 67982"
+434,Tami Marpaung,+62-62-687-4588,1,"Jl. Pasteur No. 66
+Subulussalam, PA 69363"
+435,Sabri Wahyudin,+62 (0373) 214 8147,4,"Jalan Setiabudhi No. 70
+Surabaya, Jawa Barat 09475"
+436,Drs. Carla Maulana,088 624 5913,6,"Jalan Gardujati No. 9
+Banjarmasin, KR 69825"
+437,"dr. Jail Anggriawan, M.Pd",(042) 210 1636,10,"Jl. Cikutra Barat No. 017
+Pontianak, Papua 64525"
+438,Eman Novitasari,+62 (064) 237 5429,5,"Jalan Pasirkoja No. 3
+Pasuruan, LA 60201"
+439,Galuh Damanik,(0529) 047-1976,5,"Jl. Peta No. 8
+Pematangsiantar, JI 05963"
+440,Kasiyah Januar,+62-292-388-2964,1,"Gang Ciwastra No. 49
+Palu, BE 02314"
+441,H. Gading Mahendra,+62 (0362) 435 4346,8,"Jalan Cikapayang No. 710
+Sawahlunto, Banten 09444"
+442,"Hesti Jailani, S.Kom",+62-0195-384-9974,4,"Jalan Joyoboyo No. 74
+Bima, Papua 86440"
+443,Fitriani Suryono,+62-606-652-0304,1,"Gang Soekarno Hatta No. 8
+Bandung, YO 57508"
+444,Balangga Santoso,(0661) 855 3346,10,"Jalan PHH. Mustofa No. 1
+Metro, Papua Barat 00241"
+445,Kamaria Budiman,+62 (0749) 095-2183,6,"Jalan Cihampelas No. 675
+Bitung, KT 39575"
+446,Putu Mardhiyah,+62 (598) 684-5413,4,"Gang Suryakencana No. 474
+Prabumulih, NB 22917"
+447,Hesti Laksmiwati,+62 (029) 858 9432,1,"Jalan Rajawali Timur No. 82
+Batam, Jambi 39133"
+448,"Irwan Sihombing, S.I.Kom",0887499949,3,"Gang Medokan Ayu No. 323
+Sungai Penuh, NB 56762"
+449,"Hj. Novi Uyainah, M.Kom.",+62-452-676-9215,3,"Jalan Waringin No. 589
+Kotamobagu, Sulawesi Utara 41404"
+450,T. Imam Sihotang,0827735423,10,"Jalan R.E Martadinata No. 774
+Dumai, JI 30706"
+451,Setya Hassanah,+62 (766) 973-9158,2,"Gg. HOS. Cokroaminoto No. 12
+Pontianak, Sulawesi Barat 37362"
+452,"Makuta Pradipta, S.Gz",(0869) 046-8509,9,"Gg. Rajiman No. 494
+Kota Administrasi Jakarta Selatan, KU 03504"
+453,Unjani Sitompul,(0786) 939-6865,3,"Jl. Medokan Ayu No. 3
+Banjarmasin, Banten 49580"
+454,"Dt. Labuh Tarihoran, S.E.",+62 (027) 818-8904,6,"Gg. Setiabudhi No. 182
+Tanjungpinang, NB 47482"
+455,Asmuni Maheswara,+62-915-947-5134,2,"Jalan Jamika No. 8
+Palangkaraya, BB 98116"
+456,"dr. Wasis Suartini, M.Pd",+62 (943) 354 6001,8,"Gang Pacuan Kuda No. 977
+Bima, JK 25327"
+457,Elma Wacana,+62-0159-393-1304,6,"Gang Dr. Djunjunan No. 5
+Kota Administrasi Jakarta Timur, SR 66085"
+458,Aswani Najmudin,+62 (056) 491 3434,2,"Gang Siliwangi No. 529
+Bima, Sumatera Barat 20908"
+459,Ir. Murti Hastuti,+62 (0566) 086-1862,9,"Gg. PHH. Mustofa No. 07
+Malang, Sulawesi Selatan 41029"
+460,Maimunah Winarsih,0836190940,3,"Gang Setiabudhi No. 036
+Purwokerto, Maluku Utara 81338"
+461,Ir. Nasab Fujiati,+62 (022) 629 4267,1,"Jalan Kutisari Selatan No. 21
+Ternate, KB 76619"
+462,Irfan Zulaika,+62-907-064-8989,2,"Gang Rajiman No. 0
+Batu, KR 92298"
+463,"T. Galuh Samosir, S.Pd",+62-163-606-7344,8,"Gg. Monginsidi No. 24
+Sorong, Jawa Timur 63910"
+464,Cinta Usamah,(0898) 443-2424,10,"Jl. Jend. Sudirman No. 5
+Kupang, Nusa Tenggara Timur 57784"
+465,Cemplunk Prasetyo,+62-0937-476-5086,3,"Jalan Cikutra Timur No. 6
+Pematangsiantar, Kalimantan Tengah 31848"
+466,Vino Lestari,+62 (078) 750-5636,2,"Gang Bangka Raya No. 269
+Sawahlunto, Papua 71284"
+467,Darimin Hakim,+62 (03) 784 6801,2,"Jl. Cempaka No. 39
+Sungai Penuh, SN 91359"
+468,"Tgk. Darmana Widodo, S.Ked",+62 (009) 219 4736,7,"Jalan Rungkut Industri No. 1
+Jayapura, SU 53052"
+469,Ir. Rahman Waskita,(035) 553 8326,5,"Gang Stasiun Wonokromo No. 8
+Medan, Lampung 26330"
+470,Paulin Sitorus,(0317) 194 8778,6,"Gg. Rajawali Barat No. 9
+Medan, Banten 57165"
+471,"R.M. Pranawa Nugroho, S.E.",+62 (34) 368 0830,8,"Gg. Cihampelas No. 11
+Sorong, Sulawesi Tenggara 07638"
+472,Tgk. Kusuma Pangestu,+62 (023) 653 1886,10,"Jl. Cikutra Timur No. 76
+Langsa, KS 81429"
+473,T. Mahfud Simanjuntak,+62 (0945) 159-6166,3,"Gg. Gegerkalong Hilir No. 968
+Tanjungbalai, Nusa Tenggara Timur 05187"
+474,Shania Tarihoran,+62 (22) 371-7384,9,"Gg. Raya Setiabudhi No. 06
+Palu, JT 66162"
+475,Alambana Iswahyudi,0865165262,9,"Jalan PHH. Mustofa No. 42
+Kota Administrasi Jakarta Selatan, Sulawesi Selatan 92963"
+476,Lasmono Wulandari,+62-096-730-0303,8,"Jalan Cempaka No. 656
+Sukabumi, Banten 55099"
+477,"Cut Karen Thamrin, M.Farm",089 783 0139,3,"Jalan Rawamangun No. 02
+Ternate, Sulawesi Selatan 46547"
+478,"Kiandra Widiastuti, S.Pt",+62 (46) 217-3717,2,"Jalan Medokan Ayu No. 3
+Ambon, NB 02033"
+479,"dr. Gasti Sihombing, S.Gz",(0351) 293-9327,9,"Jl. Setiabudhi No. 11
+Solok, JT 82451"
+480,dr. Cagak Padmasari,0813577172,3,"Gg. Sukajadi No. 413
+Tangerang Selatan, Sulawesi Tenggara 09146"
+481,Genta Nasyiah,+62 (0446) 783-3576,10,"Gg. Rungkut Industri No. 4
+Medan, Gorontalo 12773"
+482,drg. Lidya Pratama,+62 (976) 319-0829,1,"Gang S. Parman No. 5
+Banjarbaru, SS 54166"
+483,"Sadina Saptono, S.Sos",+62 (0612) 225 7629,9,"Gg. Merdeka No. 14
+Pekalongan, AC 80729"
+484,Michelle Jailani,(0022) 750 7258,5,"Gang Sentot Alibasa No. 45
+Bau-Bau, JT 20406"
+485,Drs. Novi Kuswoyo,082 493 4018,8,"Jalan Cihampelas No. 528
+Binjai, PA 21805"
+486,Jarwa Puspasari,+62 (143) 538 1987,4,"Gg. Rumah Sakit No. 047
+Kota Administrasi Jakarta Pusat, Jambi 39706"
+487,"Tugiman Saefullah, S.Farm",+62 (030) 301 6018,5,"Jalan Tubagus Ismail No. 6
+Yogyakarta, Lampung 67665"
+488,"Ilyas Kurniawan, S.H.",087 394 8304,4,"Jalan Rajawali Timur No. 80
+Bekasi, NT 19625"
+489,Elon Rajasa,+62 (98) 381-1093,8,"Gg. Jayawijaya No. 81
+Palembang, Kalimantan Barat 11994"
+490,Arta Rajata,+62 (665) 767 0584,3,"Jalan Merdeka No. 214
+Banjarmasin, JK 53389"
+491,Nurul Rahimah,(0822) 597 9735,7,"Gang Jamika No. 84
+Serang, Gorontalo 33187"
+492,"Dr. Ellis Halim, M.M.",(027) 316 7616,2,"Gg. Suryakencana No. 65
+Solok, Kalimantan Tengah 95716"
+493,"Eva Nugroho, M.Kom.",084 067 5551,1,"Gg. Dipatiukur No. 02
+Batam, Kalimantan Selatan 94599"
+494,Silvia Prasetya,+62 (28) 423 9622,8,"Gang Erlangga No. 324
+Serang, KI 12619"
+495,Cut Dian Mandasari,0873738493,7,"Gang Abdul Muis No. 5
+Tegal, KB 27711"
+496,"Artanto Nababan, S.Farm",(0784) 219-4368,5,"Jalan Abdul Muis No. 79
+Gorontalo, Sumatera Utara 17352"
+497,Drs. Prima Rahimah,(0514) 498 0859,9,"Jalan Wonoayu No. 625
+Yogyakarta, LA 15402"
+498,Hani Halimah,+62-085-760-5879,3,"Gang Veteran No. 44
+Kediri, Lampung 94501"
+499,Citra Suartini,080 735 6956,7,"Jl. Jayawijaya No. 59
+Tasikmalaya, Maluku Utara 81046"
+500,Tania Wacana,+62 (95) 611-2766,1,"Jalan Otto Iskandardinata No. 2
+Sorong, MU 91090"
+501,"Wulan Januar, S.Ked",082 842 0714,1,"Jl. Ciumbuleuit No. 89
+Batu, Jawa Timur 57828"
+502,dr. Cindy Astuti,+62 (16) 357-2517,5,"Jl. Suryakencana No. 72
+Salatiga, PA 23308"
+503,"Paris Prakasa, S.Pd",+62 (97) 501 5001,2,"Gang Wonoayu No. 483
+Bima, Papua 75901"
+504,"Surya Purnawati, S.Gz",0846569393,10,"Gg. Sentot Alibasa No. 3
+Prabumulih, SR 78448"
+505,Septi Ardianto,+62-008-412-2041,10,"Gang Raya Setiabudhi No. 32
+Batu, Nusa Tenggara Barat 22007"
+506,Elisa Rajasa,084 474 9483,10,"Gang Gardujati No. 87
+Lhokseumawe, PB 57440"
+507,Panji Damanik,(055) 412 1417,6,"Gang Abdul Muis No. 7
+Palopo, Sulawesi Barat 92236"
+508,Asmianto Suryatmi,+62 (080) 321-7435,8,"Jalan Antapani Lama No. 78
+Pangkalpinang, SN 84210"
+509,"Dt. Uda Pradana, S.Kom",+62 (469) 185-2480,10,"Gg. Rumah Sakit No. 86
+Balikpapan, Gorontalo 88661"
+510,Luwes Farida,+62-01-092-3941,10,"Gg. Rajiman No. 6
+Bitung, PA 85054"
+511,Oskar Latupono,+62 (90) 597 9146,5,"Jalan Pelajar Pejuang No. 60
+Balikpapan, KI 09325"
+512,Rosman Siregar,+62-0902-621-1123,2,"Gang Rajiman No. 045
+Surakarta, SS 56292"
+513,Melinda Yuniar,+62 (27) 964-8164,4,"Jl. Rajiman No. 310
+Kotamobagu, NT 86839"
+514,Rahmi Lestari,083 868 2422,1,"Gg. Gardujati No. 080
+Bima, Riau 54518"
+515,R.M. Martana Suryatmi,(007) 053-6680,2,"Jl. Suryakencana No. 9
+Bukittinggi, Aceh 08830"
+516,Sidiq Maryati,+62 (81) 862 9254,6,"Gg. M.T Haryono No. 5
+Pekalongan, SN 00459"
+517,Ika Budiyanto,+62 (0331) 134 7545,3,"Gang Kiaracondong No. 17
+Malang, BB 49736"
+518,Hana Januar,+62 (086) 904 4165,9,"Gang Ahmad Dahlan No. 071
+Blitar, Kalimantan Barat 75877"
+519,Cut Ade Mansur,+62 (0359) 311-0614,1,"Jalan Asia Afrika No. 937
+Depok, Sulawesi Selatan 44118"
+520,"Farhunnisa Natsir, S.E.I",+62 (703) 769 3428,6,"Jl. Jayawijaya No. 693
+Sabang, Kalimantan Selatan 75100"
+521,R. Marwata Saptono,+62 (097) 491 5459,3,"Jl. Indragiri No. 0
+Medan, Jawa Tengah 82004"
+522,"R. Gantar Agustina, S.Gz",(0107) 563-2754,9,"Jalan Moch. Toha No. 302
+Pekanbaru, ST 09957"
+523,Hani Hastuti,(0111) 438 5266,4,"Jl. M.T Haryono No. 3
+Kediri, Kepulauan Riau 61633"
+524,"Ella Maulana, S.Farm",082 168 7442,1,"Gg. Ciumbuleuit No. 85
+Tegal, Maluku 99853"
+525,Dr. Zalindra Pratama,(0286) 387-5988,1,"Jl. Erlangga No. 996
+Ternate, DKI Jakarta 54573"
+526,"Tami Narpati, S.E.I",(077) 882 7525,10,"Gg. K.H. Wahid Hasyim No. 637
+Prabumulih, MA 86013"
+527,Rahman Oktaviani,(072) 263-1725,7,"Jalan Pasteur No. 84
+Pangkalpinang, Riau 31106"
+528,Rafi Yuniar,(0244) 818-6317,4,"Gg. Ahmad Dahlan No. 560
+Bekasi, JI 85901"
+529,Ayu Uwais,+62 (52) 106 9025,1,"Jalan Joyoboyo No. 5
+Tanjungpinang, KB 87857"
+530,"Sutan Eko Rahayu, S.Pt",+62 (043) 183 5441,2,"Jalan Cikapayang No. 5
+Sabang, MA 83983"
+531,Eluh Kuswandari,+62 (076) 250-9246,8,"Jalan Kutai No. 7
+Tidore Kepulauan, Banten 80576"
+532,Keisha Pudjiastuti,+62 (46) 250 9098,8,"Jalan Joyoboyo No. 446
+Payakumbuh, SU 08890"
+533,Rizki Habibi,+62 (96) 492 9766,4,"Gg. Setiabudhi No. 273
+Kota Administrasi Jakarta Pusat, PB 70565"
+534,Karman Zulkarnain,+62 (075) 008 7483,1,"Gg. Astana Anyar No. 83
+Tanjungpinang, Kalimantan Utara 23203"
+535,Mumpuni Uwais,+62 (51) 989 3022,7,"Jl. Dr. Djunjunan No. 8
+Bima, Maluku Utara 88691"
+536,Talia Santoso,0882867892,10,"Gang Raya Ujungberung No. 453
+Pekalongan, SS 46344"
+537,Hj. Janet Iswahyudi,+62 (068) 735-5831,3,"Jl. Ir. H. Djuanda No. 9
+Malang, DKI Jakarta 69848"
+538,Ella Firmansyah,+62 (38) 915 2294,3,"Gg. Ciumbuleuit No. 194
+Cirebon, SR 33860"
+539,"Cut Sarah Wibowo, S.Kom",+62 (0017) 013-2001,1,"Jl. Cikutra Barat No. 342
+Ternate, JA 04176"
+540,"Ir. Luwar Wahyudin, M.Pd",+62-91-359-0337,8,"Jalan Asia Afrika No. 9
+Sukabumi, MA 81856"
+541,Diah Mahendra,(023) 322-0454,10,"Gg. PHH. Mustofa No. 731
+Padangpanjang, Kalimantan Barat 12838"
+542,"Fitriani Firmansyah, S.Pt",+62 (808) 764 5527,8,"Gang Soekarno Hatta No. 5
+Mataram, KI 40773"
+543,Darsirah Saptono,+62 (69) 368 2771,7,"Gang Jakarta No. 28
+Makassar, BB 45621"
+544,"Saiful Pradipta, M.Pd",+62-091-821-9400,5,"Jalan Pelajar Pejuang No. 37
+Madiun, Aceh 75894"
+545,Atma Rajasa,+62-696-935-0090,3,"Jl. Kebonjati No. 6
+Bitung, JA 99122"
+546,Karsa Hariyah,+62 (83) 833 4349,4,"Jalan Otto Iskandardinata No. 7
+Bogor, DKI Jakarta 34798"
+547,Dartono Agustina,(035) 807 8112,6,"Jalan Cikutra Barat No. 49
+Pangkalpinang, Kalimantan Timur 73408"
+548,Enteng Rahimah,+62 (0387) 460 6740,6,"Jalan K.H. Wahid Hasyim No. 262
+Palu, Jambi 00469"
+549,Gatot Kurniawan,(067) 767 1413,1,"Gang Joyoboyo No. 02
+Sabang, PA 44321"
+550,Gasti Anggraini,+62-78-208-2021,7,"Jl. Ahmad Yani No. 78
+Pekalongan, PB 48911"
+551,"Paramita Riyanti, S.Pd",(0817) 692 8330,10,"Jalan Ahmad Dahlan No. 0
+Pariaman, Maluku 96845"
+552,Anita Riyanti,(080) 881 2732,10,"Gang Rumah Sakit No. 57
+Bitung, MA 50387"
+553,Puti Nadia Setiawan,+62 (00) 422-8507,7,"Gg. Surapati No. 4
+Sabang, YO 78264"
+554,Mila Irawan,+62 (566) 799 2752,8,"Gg. Abdul Muis No. 138
+Bekasi, KI 70905"
+555,Tami Waluyo,(0626) 038 0219,5,"Gg. Rajiman No. 597
+Depok, NT 04102"
+556,"R.M. Marsito Rahimah, M.Pd",+62 (029) 031-3995,7,"Gang Ciwastra No. 481
+Pekalongan, Nusa Tenggara Timur 81390"
+557,"Caket Habibi, S.I.Kom",+62 (041) 506-5186,8,"Gang Antapani Lama No. 996
+Cilegon, Sumatera Utara 34244"
+558,"Tgk. Karen Prakasa, S.Pt",086 229 7365,7,"Gang Siliwangi No. 3
+Kota Administrasi Jakarta Utara, GO 34655"
+559,Dimas Adriansyah,+62 (57) 252 3469,4,"Jl. Antapani Lama No. 843
+Pekalongan, Sulawesi Tengah 62631"
+560,"R.A. Lintang Pertiwi, M.M.",+62 (075) 020-5469,6,"Gg. S. Parman No. 830
+Binjai, MA 86045"
+561,Karja Nashiruddin,+62 (28) 091 0037,9,"Jalan Joyoboyo No. 201
+Tanjungbalai, Riau 61937"
+562,Jasmin Marbun,+62 (610) 760-0870,4,"Jl. Pasirkoja No. 5
+Tegal, Kepulauan Riau 76909"
+563,Pangestu Siregar,+62 (083) 852-6805,8,"Gang Pasirkoja No. 22
+Singkawang, BE 37111"
+564,Victoria Situmorang,+62 (068) 057 6885,8,"Jalan Sukajadi No. 273
+Bogor, MA 88331"
+565,Dewi Pratiwi,+62 (098) 971 2579,1,"Jalan Rawamangun No. 2
+Banda Aceh, Papua 13761"
+566,Maida Wahyudin,+62 (0929) 497 4606,4,"Jl. Ciwastra No. 76
+Semarang, Maluku Utara 00860"
+567,Tgk. Jarwadi Prakasa,(0972) 648 8900,8,"Gg. Laswi No. 8
+Metro, Kepulauan Bangka Belitung 27163"
+568,Ajiman Tamba,+62 (0972) 232-1012,1,"Jalan Cikutra Barat No. 8
+Sabang, SN 10316"
+569,"Cakrajiya Puspita, S.IP",+62 (014) 084 0646,9,"Gang Moch. Ramdan No. 9
+Malang, Kepulauan Bangka Belitung 15013"
+570,Dwi Maryadi,+62-065-078-6355,6,"Jl. Stasiun Wonokromo No. 6
+Singkawang, SR 51919"
+571,Ridwan Yuliarti,+62 (0472) 139-7880,7,"Jalan Bangka Raya No. 3
+Surabaya, BA 33310"
+572,"R.A. Ika Winarsih, S.Sos",+62-0039-248-2375,4,"Gang Raya Setiabudhi No. 7
+Lubuklinggau, Jambi 29128"
+573,R. Tania Tampubolon,+62 (096) 849-7172,6,"Gang Pasir Koja No. 67
+Kota Administrasi Jakarta Utara, LA 97258"
+574,drg. Kani Santoso,(048) 037 7295,2,"Jl. Moch. Toha No. 70
+Tanjungpinang, MA 93260"
+575,Daliono Winarno,+62 (755) 547-9108,9,"Jalan Suryakencana No. 1
+Singkawang, DKI Jakarta 10932"
+576,Drs. Nyoman Salahudin,(075) 824-5199,8,"Gg. Suryakencana No. 383
+Banda Aceh, KU 08374"
+577,"drg. Hendra Mahendra, S.H.",(0423) 888-4165,10,"Jalan R.E Martadinata No. 1
+Makassar, NT 15049"
+578,R. Laksana Hutasoit,+62-236-460-3674,10,"Jl. Cikutra Timur No. 1
+Bekasi, MA 44808"
+579,Diah Usamah,+62 (055) 123 0018,1,"Jalan Kendalsari No. 29
+Meulaboh, Papua 25707"
+580,Opung Mulyani,+62 (0304) 543-8193,3,"Gang Veteran No. 8
+Serang, SS 35179"
+581,"Irma Hakim, S.Kom",(0583) 321-5820,3,"Gang Kendalsari No. 04
+Ambon, BE 43588"
+582,Dr. Jais Suwarno,+62 (71) 609-4997,5,"Gg. Gedebage Selatan No. 6
+Yogyakarta, SB 05014"
+583,"Rahmi Mayasari, M.Pd",+62 (0174) 959-9446,7,"Jalan Wonoayu No. 4
+Kota Administrasi Jakarta Utara, Sulawesi Tengah 50758"
+584,Daliman Farida,0824460011,5,"Gg. Monginsidi No. 3
+Bitung, SS 96318"
+585,Amelia Prasetyo,+62 (12) 311-1014,2,"Gang Tebet Barat Dalam No. 5
+Madiun, Nusa Tenggara Barat 61494"
+586,Paris Zulaika,+62 (22) 331-3341,6,"Jalan Cihampelas No. 132
+Samarinda, Kepulauan Riau 90128"
+587,Ir. Candra Nababan,+62-013-538-5291,3,"Gg. Cikutra Barat No. 137
+Surabaya, GO 08906"
+588,Genta Kuswoyo,+62 (47) 823 2968,4,"Jl. Jend. Sudirman No. 844
+Balikpapan, Jawa Tengah 40627"
+589,Kemal Melani,+62 (0862) 083-3509,3,"Gg. Gedebage Selatan No. 91
+Blitar, Papua Barat 21178"
+590,Empluk Kuswandari,082 323 4084,8,"Jl. Gegerkalong Hilir No. 736
+Bukittinggi, Kalimantan Tengah 47881"
+591,Lili Dabukke,+62 (0782) 788-9760,7,"Gang Pasteur No. 25
+Tomohon, SR 00160"
+592,"Gamanto Saefullah, S.IP",+62 (511) 869-2106,6,"Jl. Dipatiukur No. 48
+Palembang, Jawa Barat 07886"
+593,Titin Marbun,+62 (051) 527 8641,10,"Gang Sukabumi No. 45
+Tidore Kepulauan, ST 46810"
+594,"Kartika Agustina, M.Ak",0828446417,8,"Jalan Laswi No. 3
+Bima, KT 08794"
+595,"Puti Rahmi Pradana, S.Pd",+62 (60) 516 5765,6,"Gg. Cempaka No. 953
+Cilegon, SU 80208"
+596,Puti Cindy Latupono,081 243 9860,9,"Gg. Antapani Lama No. 37
+Sabang, Sulawesi Barat 25405"
+597,Dewi Pertiwi,+62 (053) 177-6718,3,"Gg. Gegerkalong Hilir No. 306
+Sorong, SN 48057"
+598,Rina Nababan,+62 (98) 281-4967,4,"Gg. Rumah Sakit No. 1
+Palangkaraya, Sulawesi Selatan 71322"
+599,Dr. Budi Damanik,+62 (13) 397 1307,3,"Gg. Jakarta No. 73
+Cilegon, Kepulauan Bangka Belitung 90100"
+600,Kiandra Haryanti,+62-05-179-0761,9,"Jl. Ahmad Dahlan No. 5
+Palembang, Riau 80434"
+601,drg. Jayadi Hakim,+62 (0899) 691 8311,6,"Jalan Rungkut Industri No. 4
+Denpasar, PB 75736"
+602,"Edi Firmansyah, S.Kom",+62 (842) 070 9914,8,"Jalan Kutai No. 74
+Yogyakarta, Bengkulu 06666"
+603,"Suci Purwanti, M.TI.",+62 (087) 182-9493,9,"Jl. Cihampelas No. 348
+Bau-Bau, Maluku 96444"
+604,Drs. Dinda Salahudin,+62 (057) 186-4951,5,"Gang Suryakencana No. 78
+Magelang, KI 93072"
+605,Ana Padmasari,(0883) 702-7016,3,"Jalan Antapani Lama No. 7
+Lhokseumawe, JT 13632"
+606,Ulya Firgantoro,(096) 142 7727,4,"Gg. K.H. Wahid Hasyim No. 8
+Kota Administrasi Jakarta Selatan, PB 55419"
+607,Luwar Puspita,+62 (428) 352 7207,7,"Gg. Cikutra Barat No. 89
+Kota Administrasi Jakarta Pusat, Bengkulu 83863"
+608,Yulia Uyainah,+62 (0256) 746-5658,4,"Gang Asia Afrika No. 0
+Kotamobagu, Lampung 67475"
+609,Darmana Prabowo,(047) 889-2830,7,"Jl. Kapten Muslihat No. 537
+Palembang, KI 98729"
+610,Elvina Dabukke,+62 (405) 960 8060,4,"Jalan Gedebage Selatan No. 1
+Batu, Jawa Tengah 87384"
+611,Oliva Utami,+62 (66) 229 5249,9,"Jl. Surapati No. 3
+Salatiga, Lampung 26388"
+612,Salimah Mahendra,087 142 3233,5,"Jl. H.J Maemunah No. 377
+Sabang, DI Yogyakarta 08570"
+613,Humaira Megantara,(091) 311-6033,2,"Jalan Ahmad Dahlan No. 8
+Palangkaraya, Aceh 94334"
+614,"Ir. Taufik Winarno, S.Farm",+62-0241-275-2745,2,"Gang Jayawijaya No. 300
+Pagaralam, Papua Barat 70927"
+615,Putri Hastuti,+62 (413) 113 8556,6,"Jl. HOS. Cokroaminoto No. 8
+Medan, Riau 92701"
+616,Akarsana Sihombing,+62 (028) 323-9648,7,"Gang Medokan Ayu No. 70
+Kota Administrasi Jakarta Pusat, LA 73007"
+617,"Dr. Ida Pradana, S.Gz",+62-294-133-3047,3,"Gang Gardujati No. 23
+Bukittinggi, Papua 39511"
+618,Alika Sitompul,(0294) 848 0647,4,"Gang HOS. Cokroaminoto No. 278
+Bukittinggi, Sulawesi Barat 95892"
+619,H. Luwes Tampubolon,+62-256-765-2029,5,"Jalan Pacuan Kuda No. 335
+Tual, Kalimantan Timur 67356"
+620,Dt. Gangsar Budiman,+62 (889) 223-3798,7,"Jalan Gegerkalong Hilir No. 436
+Pontianak, Nusa Tenggara Barat 84928"
+621,"Ilsa Susanti, S.T.",+62 (0033) 074 0413,3,"Jl. Ahmad Yani No. 09
+Gorontalo, JA 22465"
+622,Drs. Rahmat Hutagalung,+62 (006) 612-0280,5,"Gang Cikutra Timur No. 30
+Kotamobagu, Nusa Tenggara Timur 80839"
+623,"Hamima Maryati, M.Kom.",(029) 867 3582,9,"Jalan HOS. Cokroaminoto No. 81
+Dumai, Sulawesi Selatan 13721"
+624,Tasnim Tampubolon,+62 (95) 972 7294,6,"Gang Suniaraja No. 641
+Kota Administrasi Jakarta Utara, DKI Jakarta 62461"
+625,Sakura Gunawan,(019) 802-0772,6,"Gang Pasir Koja No. 3
+Mataram, AC 35322"
+626,"KH. Artawan Rajasa, S.Farm",+62-0985-027-9841,8,"Gg. Kiaracondong No. 1
+Bima, BB 50481"
+627,R.M. Vega Iswahyudi,+62 (017) 671 5754,3,"Gg. Surapati No. 2
+Madiun, KB 66159"
+628,Azalea Suryatmi,+62 (952) 040-9719,10,"Gg. Soekarno Hatta No. 55
+Parepare, Maluku Utara 71891"
+629,"Tgk. Upik Permadi, M.Kom.",085 734 8258,4,"Jl. Gardujati No. 820
+Kota Administrasi Jakarta Timur, Sulawesi Tengah 37087"
+630,Samiah Iswahyudi,+62-76-997-2893,10,"Gg. Raya Setiabudhi No. 1
+Samarinda, Sulawesi Tenggara 92320"
+631,Humaira Putra,089 465 4509,5,"Gg. Laswi No. 90
+Blitar, BT 44529"
+632,"R.M. Jaswadi Wijayanti, M.M.",+62 (015) 245 6559,6,"Gang PHH. Mustofa No. 6
+Salatiga, Lampung 17268"
+633,"R. Elon Adriansyah, S.T.",(0551) 325-2198,8,"Jalan Ahmad Dahlan No. 723
+Denpasar, NT 31474"
+634,"Jayadi Yulianti, S.I.Kom",+62 (531) 708 5339,7,"Gang Laswi No. 61
+Batu, Sulawesi Tengah 40972"
+635,"Novi Nainggolan, S.T.",+62 (0121) 082-3980,8,"Gg. Moch. Ramdan No. 03
+Denpasar, Kepulauan Bangka Belitung 08824"
+636,Cawuk Pranowo,+62 (71) 400 5140,4,"Gg. Kiaracondong No. 2
+Sibolga, AC 15417"
+637,Sabrina Budiyanto,+62-039-558-5900,1,"Jl. Tebet Barat Dalam No. 4
+Mataram, PA 06934"
+638,R. Wulan Sitorus,+62 (022) 326-3621,6,"Gang Ciumbuleuit No. 5
+Metro, Lampung 94691"
+639,Puti Vanya Pradipta,+62 (719) 340-7625,6,"Jalan Cempaka No. 0
+Palopo, MA 73820"
+640,Silvia Laksmiwati,+62-001-606-2878,5,"Gang R.E Martadinata No. 0
+Medan, Jawa Tengah 65748"
+641,Tantri Nababan,(077) 713 1351,6,"Jalan PHH. Mustofa No. 8
+Pagaralam, JT 03868"
+642,Banara Mulyani,0897767943,10,"Gg. Rumah Sakit No. 534
+Bandung, BB 90985"
+643,Putu Usamah,(061) 010 4571,9,"Gang Peta No. 95
+Makassar, JB 38682"
+644,T. Slamet Wijaya,+62 (088) 562-8098,3,"Jl. Suniaraja No. 6
+Yogyakarta, JA 88098"
+645,"R.A. Najwa Nugroho, S.I.Kom",086 717 8612,8,"Gang Setiabudhi No. 146
+Malang, Nusa Tenggara Timur 28648"
+646,Jamalia Oktaviani,+62 (043) 781 7736,6,"Gang Peta No. 49
+Bandung, JT 13886"
+647,Artawan Pradana,(0788) 285 9120,1,"Gang Stasiun Wonokromo No. 9
+Cirebon, Jambi 01601"
+648,Ilyas Dabukke,085 146 8557,4,"Gg. Pasteur No. 752
+Metro, Nusa Tenggara Barat 95072"
+649,Lili Kurniawan,+62 (0386) 846-6623,7,"Jalan Gardujati No. 366
+Palembang, SU 04730"
+650,Dr. Betania Rahmawati,0837422701,3,"Gg. Siliwangi No. 33
+Kota Administrasi Jakarta Pusat, Sumatera Utara 27305"
+651,"Cinthia Permadi, S.Kom",+62 (033) 123 2251,5,"Jl. Erlangga No. 16
+Denpasar, DI Yogyakarta 38882"
+652,Ir. Asirwada Damanik,+62-0085-030-9893,3,"Gg. BKR No. 438
+Pekalongan, SG 91783"
+653,"Ayu Utami, S.I.Kom",+62 (37) 913 6700,8,"Gg. KH Amin Jasuta No. 28
+Tarakan, Aceh 70982"
+654,Sutan Indra Uwais,+62 (412) 946-3369,7,"Gang Kebonjati No. 721
+Padang, Nusa Tenggara Barat 05480"
+655,"Drs. Gadang Prasasta, M.Farm",(0568) 779-6795,2,"Gg. S. Parman No. 99
+Kota Administrasi Jakarta Barat, SB 31822"
+656,R.A. Keisha Wibowo,(034) 305 1980,9,"Jalan Asia Afrika No. 0
+Sukabumi, Lampung 52337"
+657,Puspa Budiyanto,+62 (028) 392-7846,5,"Gg. Pasteur No. 138
+Lubuklinggau, JI 00694"
+658,Unggul Nababan,+62 (051) 507-4161,6,"Gg. Cikapayang No. 608
+Meulaboh, KU 79004"
+659,Eli Wasita,+62 (62) 747 2861,7,"Jl. Cihampelas No. 284
+Depok, Kalimantan Selatan 72262"
+660,Sutan Garan Rahimah,(0120) 859 4083,8,"Gg. Tebet Barat Dalam No. 38
+Tasikmalaya, Kepulauan Bangka Belitung 81312"
+661,Sakti Fujiati,+62-060-159-2675,6,"Jl. Dipenogoro No. 9
+Langsa, MA 90683"
+662,Tgk. Eka Puspasari,+62-038-439-9022,2,"Gang Bangka Raya No. 66
+Tebingtinggi, Sumatera Barat 14872"
+663,drg. Viktor Yolanda,+62 (622) 851-9884,5,"Gg. Setiabudhi No. 73
+Tangerang, NB 01590"
+664,Padmi Agustina,+62 (00) 088 0070,10,"Jl. Antapani Lama No. 89
+Semarang, BB 06230"
+665,Samiah Namaga,(0068) 908 0446,6,"Gang HOS. Cokroaminoto No. 4
+Sukabumi, SU 89107"
+666,Ifa Napitupulu,+62 (005) 175 7237,2,"Gg. Cempaka No. 09
+Manado, Sulawesi Tengah 83222"
+667,Tari Wijayanti,+62-15-184-2439,8,"Gang Rawamangun No. 894
+Payakumbuh, Papua Barat 65517"
+668,Estiawan Dongoran,(0619) 071 8512,2,"Jalan Jend. Sudirman No. 0
+Manado, Jawa Tengah 80060"
+669,R.A. Almira Sihotang,0806341101,9,"Gang Pelajar Pejuang No. 1
+Magelang, PB 70083"
+670,Ega Hidayat,+62 (079) 504-2718,6,"Gang Asia Afrika No. 949
+Kota Administrasi Jakarta Barat, Nusa Tenggara Timur 79717"
+671,T. Gatra Adriansyah,+62 (0729) 363 7414,2,"Gang Kendalsari No. 6
+Subulussalam, JA 01426"
+672,Darmanto Hidayanto,+62-314-665-9510,9,"Gang PHH. Mustofa No. 1
+Sawahlunto, Sulawesi Tengah 27579"
+673,Gandi Saptono,+62 (0833) 792-1153,6,"Gg. Otto Iskandardinata No. 955
+Kupang, Sulawesi Barat 57921"
+674,"R. Eluh Hutagalung, S.T.",+62 (0318) 279-3177,4,"Jl. BKR No. 05
+Bukittinggi, SN 94105"
+675,Cut Yuliana Padmasari,+62 (745) 299-6975,6,"Jalan Cempaka No. 99
+Gorontalo, BA 60924"
+676,Najam Rahimah,+62 (0703) 534 7039,1,"Jl. Lembong No. 25
+Banda Aceh, LA 09638"
+677,Anom Uwais,+62-97-499-7284,1,"Gg. Cikutra Barat No. 0
+Bukittinggi, Sulawesi Tengah 69406"
+678,Carla Nainggolan,+62 (77) 028-9656,4,"Jl. Rumah Sakit No. 9
+Bengkulu, NT 67128"
+679,R. Gaman Wibisono,(0926) 206 3169,10,"Gang Cikapayang No. 3
+Blitar, Sulawesi Tenggara 47773"
+680,"Ir. Wahyu Nasyiah, S.Pd",+62 (0967) 752-1855,1,"Gg. Wonoayu No. 96
+Palembang, Bengkulu 06697"
+681,"Michelle Kuswandari, S.Sos",+62 (030) 628 3846,9,"Jl. HOS. Cokroaminoto No. 2
+Tanjungbalai, Banten 61345"
+682,"Ajimin Hariyah, S.Sos",0833538542,4,"Gang KH Amin Jasuta No. 3
+Sawahlunto, JA 18840"
+683,Jasmin Hutapea,(089) 234-5772,7,"Jalan Cikutra Barat No. 27
+Bukittinggi, AC 35454"
+684,Suci Marbun,(0385) 256-4611,4,"Jalan Laswi No. 57
+Pematangsiantar, YO 45442"
+685,T. Jamil Siregar,+62 (0007) 273-3484,10,"Jl. Sadang Serang No. 140
+Mojokerto, PA 43146"
+686,"Rahmi Kusumo, M.Ak",+62-98-239-9673,10,"Jalan Waringin No. 8
+Depok, Sulawesi Barat 25249"
+687,Lala Megantara,(0351) 022-2338,4,"Gg. Jayawijaya No. 399
+Palu, Riau 45276"
+688,Paiman Nasyiah,+62 (015) 377 2248,1,"Jl. Pasir Koja No. 0
+Lubuklinggau, Jawa Timur 87869"
+689,Gabriella Kusumo,+62 (045) 740-7103,3,"Jl. Asia Afrika No. 63
+Batu, Sumatera Selatan 04286"
+690,Malik Nainggolan,+62-0464-524-9899,9,"Jl. Tubagus Ismail No. 3
+Manado, Papua 47030"
+691,Zulfa Riyanti,(0255) 654 4317,2,"Gang Tebet Barat Dalam No. 18
+Pangkalpinang, Sulawesi Tenggara 41191"
+692,"Nadine Nasyidah, M.Farm",+62 (006) 761-5691,7,"Gang Lembong No. 95
+Padang Sidempuan, KU 71964"
+693,Paramita Andriani,(008) 748 5521,5,"Jl. Kutisari Selatan No. 32
+Kota Administrasi Jakarta Pusat, BA 98977"
+694,Drs. Ihsan Marbun,+62 (095) 939 1581,4,"Gang Yos Sudarso No. 23
+Salatiga, Bali 23617"
+695,Salwa Pangestu,+62-0683-127-6685,10,"Gg. Merdeka No. 712
+Bontang, JT 30528"
+696,Sarah Widiastuti,+62 (0839) 737-4108,5,"Jalan Jakarta No. 9
+Tebingtinggi, DI Yogyakarta 67612"
+697,Dinda Gunarto,+62 (356) 737-4293,8,"Jl. Yos Sudarso No. 337
+Sawahlunto, Jambi 47074"
+698,Farah Mustofa,+62-04-608-8565,7,"Gang Bangka Raya No. 002
+Payakumbuh, KI 74293"
+699,Chelsea Mandala,+62 (0131) 501 0513,2,"Jalan Ciwastra No. 7
+Pontianak, GO 12829"
+700,Aurora Kusmawati,+62 (60) 704 2817,3,"Gg. Pacuan Kuda No. 32
+Lubuklinggau, SU 42854"
+701,Umar Saefullah,+62-0081-429-6654,7,"Gang R.E Martadinata No. 83
+Bekasi, Kalimantan Selatan 85354"
+702,Ratih Hidayat,+62-614-345-9257,6,"Gang Dipatiukur No. 9
+Tidore Kepulauan, DI Yogyakarta 75450"
+703,Puti Prasasta,+62 (025) 565-9988,9,"Jl. KH Amin Jasuta No. 239
+Palu, BE 48006"
+704,"Maryadi Purwanti, M.Pd",+62 (094) 725 8829,5,"Gang W.R. Supratman No. 187
+Bandar Lampung, Jawa Tengah 33016"
+705,Rina Gunawan,0867689207,1,"Jalan Suniaraja No. 307
+Dumai, BA 06303"
+706,Ir. Ella Puspita,+62-579-820-5119,9,"Jl. Sadang Serang No. 4
+Singkawang, Kepulauan Riau 07286"
+707,"Dr. Ibrahim Simbolon, S.IP",+62 (0327) 168-7651,9,"Jalan R.E Martadinata No. 0
+Bengkulu, Sulawesi Barat 26504"
+708,Sabrina Kusmawati,+62 (396) 262-4881,2,"Jl. Monginsidi No. 799
+Samarinda, KU 26503"
+709,"KH. Galak Tarihoran, S.Psi",(007) 753-5570,10,"Gang R.E Martadinata No. 46
+Padangpanjang, NB 99131"
+710,Farhunnisa Namaga,+62-0944-637-3319,2,"Gang Antapani Lama No. 288
+Bukittinggi, Sulawesi Barat 00111"
+711,Kani Wibowo,+62 (88) 769 3209,4,"Gang Cihampelas No. 273
+Bukittinggi, Sumatera Barat 72624"
+712,Dalima Pratama,(060) 097 2110,2,"Jalan Rajiman No. 83
+Bandung, BT 90468"
+713,Hj. Hana Hassanah,+62-0628-800-4212,8,"Gg. Kutai No. 069
+Bandar Lampung, SS 35528"
+714,Ella Saragih,+62 (0220) 093 9641,5,"Gg. Rajawali Timur No. 09
+Bukittinggi, Jawa Timur 14006"
+715,Maya Usada,+62 (12) 930 1566,7,"Gang Rajiman No. 2
+Bekasi, SN 36268"
+716,Candrakanta Riyanti,+62-956-632-2957,4,"Jalan Ahmad Yani No. 9
+Mojokerto, KR 92634"
+717,drg. Mala Halim,+62-092-555-5500,9,"Gang H.J Maemunah No. 3
+Pangkalpinang, Jawa Barat 57999"
+718,Diah Firgantoro,+62 (63) 172 8053,6,"Jl. BKR No. 09
+Samarinda, Bengkulu 70306"
+719,"Taswir Nugroho, M.M.",(096) 137 6555,4,"Gang Rawamangun No. 0
+Blitar, YO 71019"
+720,"Tira Najmudin, S.Psi",+62 (014) 595 1300,4,"Gg. Setiabudhi No. 12
+Palopo, Kalimantan Tengah 86846"
+721,"Kezia Mulyani, M.M.",+62 (097) 000 8844,3,"Gg. H.J Maemunah No. 27
+Palopo, Papua Barat 89327"
+722,Rini Maryadi,+62 (0125) 856 6223,6,"Jalan Cikapayang No. 944
+Tual, Lampung 06163"
+723,Imam Januar,+62 (029) 396-1940,4,"Gg. Astana Anyar No. 09
+Palu, ST 83664"
+724,Maryadi Rahmawati,+62-055-857-5673,3,"Jalan Siliwangi No. 9
+Samarinda, BE 89260"
+725,Aisyah Saragih,+62 (0679) 830 7973,8,"Gang Rumah Sakit No. 211
+Serang, SN 54522"
+726,"Dr. Simon Pratama, S.Farm",(0184) 626 5008,2,"Gang Rumah Sakit No. 53
+Blitar, Papua 66992"
+727,Sutan Bahuraksa Mandasari,(0221) 366 2655,5,"Gang Rumah Sakit No. 023
+Lubuklinggau, Sulawesi Selatan 54606"
+728,R.A. Kayla Jailani,+62-038-502-1787,4,"Gg. Gardujati No. 20
+Pariaman, DKI Jakarta 28463"
+729,Saadat Wijaya,088 513 3512,9,"Jalan Otto Iskandardinata No. 8
+Jayapura, JB 33994"
+730,Atmaja Sinaga,+62 (685) 498-3675,10,"Jalan Bangka Raya No. 131
+Pontianak, SN 55251"
+731,"dr. Maida Wulandari, S.I.Kom",(0354) 092 1982,9,"Gang Antapani Lama No. 351
+Bengkulu, Sumatera Barat 51659"
+732,Cut Paris Hassanah,+62-772-539-5281,9,"Gang Ahmad Dahlan No. 1
+Ambon, AC 83248"
+733,Aslijan Purwanti,+62 (005) 988-7813,6,"Jl. Antapani Lama No. 77
+Bengkulu, Sulawesi Tenggara 65884"
+734,Gawati Habibi,0854275616,6,"Gg. Antapani Lama No. 809
+Prabumulih, BE 95612"
+735,"Genta Waskita, S.Farm",+62 (0625) 968-0580,4,"Jl. Gegerkalong Hilir No. 770
+Tomohon, JI 02674"
+736,Shania Sihombing,+62 (044) 882-4682,1,"Jalan Cikutra Timur No. 6
+Banjar, MA 71638"
+737,Ulva Pertiwi,+62 (032) 803 6351,4,"Gang Ciumbuleuit No. 2
+Palopo, Sulawesi Barat 75139"
+738,Ir. Farah Wacana,+62-82-144-5660,4,"Gang Otto Iskandardinata No. 3
+Salatiga, JI 67175"
+739,Wani Saefullah,+62 (92) 115 5635,5,"Jalan Jamika No. 39
+Batu, Kalimantan Selatan 69632"
+740,Ihsan Firgantoro,+62 (0503) 846 3195,5,"Gg. Tebet Barat Dalam No. 4
+Banda Aceh, Kalimantan Tengah 49469"
+741,Raina Napitupulu,+62 (000) 761 7854,10,"Jl. Indragiri No. 699
+Tebingtinggi, Kalimantan Tengah 47008"
+742,Aswani Susanti,+62-0796-697-6107,9,"Gang Rungkut Industri No. 990
+Kotamobagu, JT 04993"
+743,Harto Nasyiah,084 355 4084,10,"Gang Sentot Alibasa No. 228
+Bogor, Kalimantan Tengah 49625"
+744,Cut Tina Prasetyo,+62 (658) 471 6747,6,"Gang S. Parman No. 8
+Padang Sidempuan, RI 73078"
+745,Vanya Siregar,+62-0468-407-8935,8,"Gg. Abdul Muis No. 06
+Pariaman, Sulawesi Tengah 95489"
+746,Saadat Putra,+62 (0746) 296 0762,9,"Gang Kebonjati No. 1
+Bekasi, Banten 61572"
+747,Cemeti Oktaviani,+62-24-455-8892,9,"Jalan S. Parman No. 38
+Pematangsiantar, NB 06454"
+748,"Tgk. Karen Siregar, S.Kom",+62 (725) 963-2723,10,"Gg. Kutai No. 42
+Ambon, DKI Jakarta 38573"
+749,Asman Hardiansyah,+62-179-956-8736,7,"Jalan Dipenogoro No. 02
+Madiun, Sulawesi Selatan 62800"
+750,"Dr. Galih Wahyudin, M.Kom.",+62-0396-797-1121,1,"Jl. Sukajadi No. 05
+Kendari, Nusa Tenggara Timur 85330"
+751,Ifa Lazuardi,(0731) 875-6310,1,"Gg. Dipatiukur No. 981
+Cilegon, GO 36903"
+752,Ratih Rajasa,(099) 053-1407,9,"Gang Jend. Sudirman No. 52
+Singkawang, AC 22504"
+753,Diah Aryani,+62 (03) 035-1239,3,"Jalan H.J Maemunah No. 6
+Binjai, GO 34013"
+754,"Prabowo Wibisono, S.E.",+62-566-447-1319,1,"Jl. Monginsidi No. 63
+Medan, Sulawesi Tenggara 87187"
+755,Zaenab Widiastuti,+62-058-714-5379,7,"Gang Tubagus Ismail No. 3
+Singkawang, JT 71299"
+756,Icha Pudjiastuti,+62 (123) 169 4332,5,"Jl. Rawamangun No. 57
+Sabang, Jawa Tengah 78361"
+757,Zulfa Wibisono,(0595) 339 7816,9,"Jl. Otto Iskandardinata No. 7
+Magelang, Kalimantan Barat 19513"
+758,Yuni Hartati,(0192) 507-9746,6,"Jalan Veteran No. 99
+Palu, Kalimantan Utara 18550"
+759,Luhung Puspasari,088 787 3620,4,"Jalan Sadang Serang No. 388
+Batam, SG 25722"
+760,drg. Mala Haryanti,+62-79-481-4618,1,"Gang Suniaraja No. 2
+Kota Administrasi Jakarta Timur, KS 22028"
+761,Karta Farida,+62 (76) 907 0043,5,"Jl. Sentot Alibasa No. 2
+Tasikmalaya, JB 05705"
+762,Victoria Haryanto,+62 (887) 827-4838,6,"Gg. Pasteur No. 25
+Bandar Lampung, Papua 94362"
+763,Yunita Wastuti,+62-112-809-3019,6,"Gang Cempaka No. 5
+Tual, JB 65483"
+764,Bagus Novitasari,(064) 369 1802,6,"Gang Rumah Sakit No. 925
+Langsa, Jawa Barat 20243"
+765,"Balamantri Januar, S.I.Kom",+62-064-577-1286,8,"Gang Cihampelas No. 1
+Sungai Penuh, Bali 46051"
+766,"R.A. Maya Wijayanti, S.Farm",(040) 544-4251,7,"Jalan HOS. Cokroaminoto No. 6
+Pariaman, JA 53366"
+767,Ir. Galar Halim,0821517149,9,"Gang Kutai No. 911
+Solok, NB 71438"
+768,Ulva Hasanah,+62 (0511) 344-3955,9,"Gang Sukajadi No. 8
+Gorontalo, Kepulauan Riau 02775"
+769,Bella Ramadan,+62 (074) 971 1802,1,"Jl. KH Amin Jasuta No. 10
+Tangerang Selatan, DKI Jakarta 49785"
+770,R. Pia Suartini,(098) 388-2884,1,"Gang Jayawijaya No. 199
+Denpasar, KI 20428"
+771,dr. Digdaya Laksmiwati,+62 (056) 735-0928,4,"Jl. M.T Haryono No. 6
+Sukabumi, Kalimantan Utara 55216"
+772,Maya Mayasari,+62 (015) 926-5691,1,"Gang Kutai No. 134
+Bekasi, Bali 12310"
+773,Jayeng Pangestu,(023) 012 7502,9,"Jl. Cihampelas No. 1
+Tidore Kepulauan, JK 90580"
+774,Panji Purwanti,(0028) 276-7806,2,"Gg. Rajawali Timur No. 188
+Tasikmalaya, LA 72596"
+775,Drs. Endra Lazuardi,0892071011,8,"Gg. Ciwastra No. 34
+Medan, KB 22413"
+776,Victoria Hutasoit,+62 (92) 140 4517,5,"Jl. Laswi No. 039
+Surabaya, Sulawesi Utara 24784"
+777,Liman Kusmawati,+62-0858-819-6155,8,"Gg. S. Parman No. 9
+Lubuklinggau, Lampung 98253"
+778,Uda Permadi,(0316) 011 6343,2,"Jalan Dipenogoro No. 80
+Ternate, BB 52621"
+779,"Uchita Putra, S.IP",(052) 525 9811,2,"Jl. Rumah Sakit No. 127
+Blitar, Bengkulu 76112"
+780,Galang Maulana,(0984) 305-9643,8,"Gg. Ir. H. Djuanda No. 5
+Bandar Lampung, Sulawesi Utara 66803"
+781,Cinta Salahudin,+62-41-587-9307,6,"Gg. Tubagus Ismail No. 166
+Bandung, Kalimantan Utara 59645"
+782,"drg. Kairav Ramadan, S.IP",+62-0145-422-6195,3,"Jalan Medokan Ayu No. 0
+Samarinda, RI 11333"
+783,"Ir. Daryani Suartini, S.T.",(0738) 794-2438,10,"Gang Cihampelas No. 43
+Surakarta, GO 08269"
+784,Yunita Laksita,+62-746-245-1576,10,"Jl. Raya Ujungberung No. 4
+Kotamobagu, Maluku 57010"
+785,Purwadi Nuraini,+62 (013) 978-2209,8,"Gang PHH. Mustofa No. 821
+Pematangsiantar, BA 25174"
+786,Edi Simanjuntak,+62-417-052-7197,4,"Jl. Abdul Muis No. 892
+Lubuklinggau, Kalimantan Timur 26543"
+787,"Gilda Waskita, S.Psi",+62 (855) 063-6222,7,"Jl. M.T Haryono No. 448
+Bandar Lampung, DKI Jakarta 78452"
+788,Kezia Samosir,+62 (0586) 539 4246,1,"Jl. Rajiman No. 5
+Bandar Lampung, MA 67975"
+789,Erik Palastri,+62-577-100-5825,7,"Jl. Antapani Lama No. 09
+Banjar, Bengkulu 07368"
+790,Hafshah Hidayanto,081 494 3343,9,"Jalan Setiabudhi No. 973
+Metro, Papua Barat 83487"
+791,Galur Pangestu,+62-01-218-4220,4,"Jalan Suryakencana No. 86
+Banjarbaru, Banten 94102"
+792,"Zamira Jailani, S.Pt",(094) 582 9967,8,"Jalan Pacuan Kuda No. 1
+Gorontalo, JI 49745"
+793,"dr. Cengkal Damanik, S.Farm",+62 (023) 265 8198,6,"Jalan Sukabumi No. 807
+Blitar, MA 12355"
+794,"Pardi Najmudin, M.Ak",+62 (072) 274-1339,1,"Jalan Raya Ujungberung No. 151
+Pariaman, Aceh 50986"
+795,"Darimin Maryadi, S.IP",+62 (0365) 070-5019,5,"Jl. Tubagus Ismail No. 628
+Denpasar, Jambi 53802"
+796,Damu Rajata,(078) 485 9738,5,"Gg. Ciumbuleuit No. 597
+Tasikmalaya, YO 60589"
+797,Cecep Hartati,+62-0793-323-7289,5,"Gg. Rajawali Timur No. 432
+Bitung, DI Yogyakarta 80458"
+798,R. Zaenab Farida,+62-078-252-7824,7,"Gang Pacuan Kuda No. 780
+Padang Sidempuan, YO 60278"
+799,Prasetya Mahendra,+62 (515) 959 1971,7,"Jalan R.E Martadinata No. 92
+Prabumulih, SN 56758"
+800,"Cawisono Habibi, S.Pd",+62 (959) 108 7269,9,"Jalan Gegerkalong Hilir No. 4
+Banjarbaru, Sulawesi Selatan 06374"
+801,"Tgk. Yunita Santoso, M.M.",+62-42-104-4364,6,"Jalan Jend. A. Yani No. 818
+Bogor, Jambi 28760"
+802,"T. Banawa Prayoga, S.Psi",+62-93-613-9987,6,"Gang Cihampelas No. 035
+Mataram, RI 13136"
+803,Gasti Najmudin,+62 (271) 533-0138,1,"Jalan Jamika No. 90
+Batam, DKI Jakarta 17912"
+804,Nadine Mansur,+62 (0631) 459-1203,2,"Jl. Setiabudhi No. 01
+Gorontalo, ST 41315"
+805,Sabrina Hutapea,+62 (479) 176-4401,6,"Gang Antapani Lama No. 98
+Kota Administrasi Jakarta Selatan, JB 64019"
+806,"Cut Lala Mulyani, M.Farm",+62 (78) 529 3495,1,"Gang Sukajadi No. 443
+Padangpanjang, Sumatera Utara 42885"
+807,Carub Namaga,(024) 551-0189,10,"Jalan Ciwastra No. 6
+Mataram, SN 08451"
+808,Vanesa Prasetyo,+62-0763-869-5019,3,"Gg. Tebet Barat Dalam No. 811
+Bogor, Bali 94287"
+809,drg. Setya Wijayanti,(068) 794-6473,7,"Jl. Rungkut Industri No. 120
+Bukittinggi, SR 40012"
+810,Edi Latupono,+62-60-870-4146,2,"Gang Raya Setiabudhi No. 251
+Denpasar, GO 41577"
+811,Ilyas Mandasari,+62 (058) 115 5924,3,"Jalan Cihampelas No. 694
+Purwokerto, Sumatera Selatan 91250"
+812,Sari Hartati,+62 (53) 497 8876,4,"Gg. Siliwangi No. 14
+Meulaboh, KI 00115"
+813,Paiman Usamah,080 223 7870,10,"Jl. Rumah Sakit No. 573
+Tegal, KR 43919"
+814,Dr. Malik Hartati,(093) 298 6698,7,"Gg. Tebet Barat Dalam No. 5
+Surakarta, KT 58608"
+815,Dodo Hardiansyah,089 564 0215,4,"Jl. Kebonjati No. 9
+Sukabumi, Aceh 84918"
+816,Hj. Wani Gunarto,+62 (404) 420 4935,3,"Gg. Joyoboyo No. 7
+Kendari, NB 54678"
+817,Langgeng Simanjuntak,+62 (004) 649 3904,3,"Jl. Bangka Raya No. 40
+Gorontalo, BE 15686"
+818,Prima Rajasa,(022) 613 0281,9,"Jalan Rungkut Industri No. 1
+Kotamobagu, JB 72551"
+819,Elvina Puspita,084 229 6353,4,"Jl. Raya Ujungberung No. 3
+Tasikmalaya, KR 32892"
+820,Pranawa Astuti,+62 (308) 320-5932,9,"Gg. Gegerkalong Hilir No. 6
+Palangkaraya, SU 26168"
+821,Samiah Waskita,(056) 083 1053,5,"Gg. Lembong No. 225
+Tasikmalaya, ST 26975"
+822,Yono Adriansyah,+62 (81) 715-6960,2,"Jalan Monginsidi No. 24
+Subulussalam, Sumatera Barat 11484"
+823,"drg. Kasiyah Nasyidah, S.Pt",0896452824,2,"Gang Antapani Lama No. 52
+Palu, Sulawesi Utara 08769"
+824,Rafid Kusmawati,+62-94-556-7299,6,"Jalan Rajiman No. 982
+Kediri, SU 73959"
+825,"R. Usyi Tarihoran, M.Farm",+62 (091) 660-1551,1,"Jl. Otto Iskandardinata No. 8
+Tebingtinggi, BE 38157"
+826,"Ghani Winarsih, S.IP",+62 (80) 055 6666,9,"Jalan PHH. Mustofa No. 30
+Pasuruan, Gorontalo 25710"
+827,Wage Haryanti,+62 (49) 041-8607,9,"Jl. Kapten Muslihat No. 69
+Subulussalam, Kalimantan Utara 18581"
+828,"R. Lantar Suryatmi, S.E.",+62 (27) 913-7515,9,"Gg. Raya Ujungberung No. 527
+Metro, Nusa Tenggara Barat 98635"
+829,Viman Sitorus,(0111) 942 1534,5,"Gang Pasteur No. 8
+Jambi, Sulawesi Selatan 32948"
+830,"Lili Manullang, S.Pd",082 441 9210,6,"Gg. Cihampelas No. 966
+Cimahi, Sulawesi Tengah 43155"
+831,Tantri Halim,(0718) 550-2102,5,"Jalan Bangka Raya No. 0
+Banjar, YO 84565"
+832,Danu Aryani,+62 (04) 625-3542,2,"Gg. Antapani Lama No. 814
+Parepare, Aceh 35455"
+833,Tgk. Hasan Safitri,(030) 380-3838,1,"Jalan R.E Martadinata No. 01
+Gorontalo, Kepulauan Bangka Belitung 94541"
+834,Victoria Samosir,0874954658,8,"Gg. Moch. Ramdan No. 33
+Bogor, Kalimantan Tengah 50431"
+835,Bahuraksa Sirait,(0677) 793 8179,2,"Jalan Gardujati No. 215
+Mataram, MU 24715"
+836,"Halima Fujiati, M.Ak",+62-488-775-7073,9,"Jl. Setiabudhi No. 171
+Madiun, SR 17827"
+837,Yuni Sihotang,+62 (006) 390 2175,1,"Jalan Kutai No. 56
+Denpasar, BA 09464"
+838,Novi Wijayanti,(0603) 373 5219,8,"Jalan Joyoboyo No. 435
+Pekanbaru, Maluku Utara 32727"
+839,KH. Unggul Santoso,+62-0268-496-8499,2,"Gg. Jend. A. Yani No. 60
+Sawahlunto, Papua Barat 96544"
+840,"Jagaraga Saptono, S.E.",0827628990,6,"Jalan Kiaracondong No. 06
+Sabang, Gorontalo 93305"
+841,Drs. Widya Riyanti,+62 (0257) 277 9184,4,"Jl. Rungkut Industri No. 935
+Pasuruan, GO 91538"
+842,"R. Cinthia Mayasari, S.T.",(054) 024-1836,9,"Gang Lembong No. 2
+Jambi, Riau 76758"
+843,Yuliana Safitri,(071) 179 1739,6,"Jl. Jayawijaya No. 6
+Cilegon, Bali 94269"
+844,Emong Samosir,+62-091-190-4996,10,"Gang Monginsidi No. 4
+Tomohon, Sumatera Utara 58667"
+845,Maman Gunawan,+62 (893) 510 9377,4,"Jalan Ronggowarsito No. 9
+Balikpapan, BA 32996"
+846,Unjani Kusmawati,+62 (023) 507 6682,1,"Gg. Cikutra Barat No. 0
+Bogor, SG 83363"
+847,"Balangga Wahyuni, S.Farm",(0251) 000 5373,5,"Gang Peta No. 395
+Cilegon, GO 32816"
+848,"Nyoman Wahyuni, S.H.",+62-841-691-4229,2,"Jl. Gedebage Selatan No. 89
+Batu, DKI Jakarta 17639"
+849,Dr. Uchita Maryati,+62 (0419) 860 7398,4,"Jl. Waringin No. 50
+Tanjungpinang, Kalimantan Barat 72640"
+850,Ina Saefullah,086 365 1649,3,"Jalan Jend. Sudirman No. 999
+Pasuruan, BB 84401"
+851,"Ir. Tania Pudjiastuti, S.Kom",(006) 295 6272,8,"Jalan Monginsidi No. 57
+Parepare, Kalimantan Utara 54173"
+852,Shania Wahyuni,+62 (018) 109-8372,10,"Gang Suniaraja No. 8
+Bima, Kalimantan Selatan 01509"
+853,R. Lantar Dabukke,+62 (74) 844 4651,9,"Gang Pasteur No. 13
+Tasikmalaya, KB 59697"
+854,Dt. Laswi Rahayu,+62-46-158-4186,9,"Jl. Ciumbuleuit No. 3
+Batam, Kalimantan Selatan 63947"
+855,"Tgk. Luwar Namaga, S.Gz",0875012811,1,"Gang Rumah Sakit No. 879
+Jambi, SU 83865"
+856,"Dasa Pranowo, S.Sos",+62 (0035) 353-3226,4,"Gang Ciwastra No. 97
+Batam, KI 33037"
+857,Ir. Warsa Rahmawati,+62-067-849-5581,2,"Jl. Gedebage Selatan No. 98
+Kota Administrasi Jakarta Utara, Kalimantan Selatan 70553"
+858,drg. Rina Najmudin,+62 (70) 082 5330,1,"Gg. Cempaka No. 871
+Kotamobagu, SU 06135"
+859,Cawisadi Fujiati,(0579) 265-8452,6,"Gang Dr. Djunjunan No. 469
+Serang, SN 96646"
+860,"Hairyanto Maryadi, M.TI.",+62 (0420) 531 2929,1,"Jalan Soekarno Hatta No. 6
+Solok, BB 67601"
+861,Sutan Lukita Pertiwi,(0847) 071 7468,6,"Gang Gardujati No. 6
+Mataram, KU 97761"
+862,Asmadi Hutapea,+62-77-315-0553,10,"Gg. HOS. Cokroaminoto No. 4
+Tebingtinggi, SB 87937"
+863,Jinawi Mardhiyah,082 180 1532,3,"Jl. PHH. Mustofa No. 1
+Tomohon, JI 25015"
+864,Elisa Prabowo,(085) 463 6294,8,"Jalan Monginsidi No. 779
+Bima, Bali 30559"
+865,"Puti Zamira Zulkarnain, S.I.Kom",+62 (37) 118 2239,5,"Gg. Raya Setiabudhi No. 70
+Tanjungbalai, Kalimantan Tengah 40246"
+866,"drg. Anita Halim, M.Kom.",(010) 592-7856,4,"Gang KH Amin Jasuta No. 040
+Kota Administrasi Jakarta Selatan, Maluku Utara 26724"
+867,"Lili Hariyah, S.Gz",(040) 488 7424,2,"Jalan M.T Haryono No. 710
+Bukittinggi, Sulawesi Selatan 85617"
+868,Qori Gunarto,+62-0172-646-1594,6,"Gg. Dipenogoro No. 934
+Pematangsiantar, MU 66184"
+869,"Dt. Banara Permata, S.Gz",+62 (041) 639-7488,2,"Gang HOS. Cokroaminoto No. 788
+Depok, Sulawesi Tenggara 36425"
+870,Karimah Prayoga,+62-00-709-4182,8,"Gg. Joyoboyo No. 0
+Samarinda, Jawa Barat 28070"
+871,Ir. Pranawa Maryadi,(020) 410 8623,4,"Jalan Sadang Serang No. 7
+Surakarta, Aceh 21791"
+872,Puti Manullang,+62-07-464-0294,10,"Jalan Ahmad Yani No. 766
+Payakumbuh, Bengkulu 43090"
+873,Karta Kuswoyo,+62 (76) 750 9894,7,"Gang Wonoayu No. 959
+Yogyakarta, SS 30588"
+874,R. Carub Yuniar,+62-0654-351-0910,8,"Gang Dipatiukur No. 714
+Jambi, AC 42621"
+875,"KH. Martaka Rajata, S.Ked",+62-58-230-8823,2,"Gang Kutai No. 839
+Parepare, RI 91043"
+876,Ida Mahendra,+62-49-539-2453,6,"Gang Astana Anyar No. 97
+Pontianak, SN 34729"
+877,Fitriani Simbolon,+62-017-232-6702,10,"Jl. Suniaraja No. 343
+Batam, BA 96224"
+878,"R.M. Rudi Puspita, M.TI.",+62 (096) 113 4302,5,"Jalan Kebonjati No. 226
+Banjar, Banten 55983"
+879,Wardaya Wahyuni,+62 (0145) 533 0091,6,"Jalan Gedebage Selatan No. 827
+Cimahi, Papua Barat 24818"
+880,Olga Prasasta,+62-666-779-0253,2,"Gg. Stasiun Wonokromo No. 33
+Sawahlunto, JK 79855"
+881,"Drs. Ina Suartini, M.Ak",(055) 596-8396,2,"Jl. Ciumbuleuit No. 9
+Cilegon, SR 76349"
+882,"Tgk. Rini Hutagalung, S.Psi",+62 (025) 191 1486,6,"Gg. Rajiman No. 2
+Langsa, ST 46977"
+883,"KH. Galar Narpati, M.M.",+62-0411-026-3279,10,"Gang Raya Ujungberung No. 49
+Langsa, GO 14040"
+884,Gatra Nasyiah,(088) 485 2041,8,"Gg. Pasirkoja No. 8
+Cimahi, Sulawesi Utara 34819"
+885,"Elma Wibowo, M.TI.",(048) 009 7523,9,"Gang Dipenogoro No. 82
+Bengkulu, YO 62737"
+886,Jasmin Tampubolon,+62 (0132) 767 7202,5,"Gg. Raya Ujungberung No. 550
+Solok, SB 95104"
+887,"Rina Ardianto, M.Pd",+62 (48) 033 2425,2,"Gang Raya Setiabudhi No. 0
+Bengkulu, SR 05774"
+888,"Tgk. Cengkir Pratama, S.Psi",(0190) 653 9747,1,"Gg. Cikutra Timur No. 342
+Salatiga, KU 09986"
+889,Wardi Saragih,(012) 226-1444,2,"Jalan Pacuan Kuda No. 1
+Cimahi, Maluku 48644"
+890,KH. Karman Waluyo,(0602) 282 5127,4,"Gg. Otto Iskandardinata No. 55
+Manado, MA 24791"
+891,Lalita Siregar,+62 (43) 922 9777,8,"Gang M.T Haryono No. 7
+Dumai, AC 39348"
+892,Naradi Santoso,+62 (0673) 035 7115,1,"Jl. Ahmad Yani No. 03
+Cilegon, Maluku 92175"
+893,Hamzah Andriani,+62 (022) 017-2618,5,"Gg. Raya Ujungberung No. 281
+Tanjungbalai, LA 42749"
+894,Zizi Wibowo,+62-070-961-8642,10,"Gang W.R. Supratman No. 141
+Singkawang, RI 14184"
+895,Maya Handayani,+62 (39) 831-4582,8,"Jl. Rajawali Barat No. 897
+Langsa, Bengkulu 11561"
+896,Ina Prabowo,(033) 292-5933,10,"Jalan Suniaraja No. 016
+Probolinggo, Papua 97067"
+897,Rahayu Waskita,0828540054,8,"Gg. Raya Ujungberung No. 1
+Metro, Jambi 29732"
+898,Kasiyah Suartini,+62 (006) 407-0107,9,"Jalan BKR No. 26
+Purwokerto, NB 79921"
+899,Anom Wibowo,+62 (36) 873 5332,6,"Jalan Cihampelas No. 53
+Kotamobagu, DKI Jakarta 06418"
+900,"Cut Maria Pratama, S.Pd",+62-550-623-5073,5,"Gang Pelajar Pejuang No. 52
+Salatiga, Jawa Timur 85525"
+901,"Ir. Janet Rahimah, S.E.",(047) 690-4660,4,"Jl. Laswi No. 355
+Denpasar, Sumatera Selatan 12642"
+902,"drg. Salwa Zulkarnain, M.Kom.",+62 (25) 910-3261,9,"Gg. Rungkut Industri No. 50
+Jayapura, Nusa Tenggara Barat 32537"
+903,Kamila Pradana,+62 (082) 819 2397,7,"Jl. Antapani Lama No. 4
+Tanjungpinang, Riau 31948"
+904,Digdaya Usada,087 868 8765,10,"Gang Monginsidi No. 13
+Langsa, SU 81406"
+905,Kasiyah Putra,+62-63-823-0917,6,"Jalan Peta No. 58
+Pangkalpinang, PB 02982"
+906,Mustofa Ardianto,+62-170-814-6459,3,"Gang R.E Martadinata No. 166
+Tasikmalaya, KB 76361"
+907,Puti Victoria Prasetyo,+62 (17) 371 5626,9,"Gang Rumah Sakit No. 7
+Sorong, Papua Barat 65715"
+908,"Tgk. Asirwada Hidayat, M.M.",+62-81-592-7240,5,"Jl. Rumah Sakit No. 5
+Kota Administrasi Jakarta Utara, Kalimantan Utara 34732"
+909,R. Cakrabuana Widodo,+62 (10) 835 6826,8,"Gg. Ahmad Yani No. 58
+Kota Administrasi Jakarta Barat, Nusa Tenggara Timur 87003"
+910,Nadia Sihombing,+62-507-986-0023,1,"Gang Rajiman No. 0
+Ambon, DI Yogyakarta 53168"
+911,R.M. Caturangga Aryani,+62 (011) 021 8794,5,"Jl. Monginsidi No. 66
+Sabang, Sumatera Selatan 85819"
+912,Nova Saputra,(034) 041-8196,1,"Jl. Joyoboyo No. 99
+Madiun, Jawa Timur 86290"
+913,"Manah Pratama, S.E.I",085 694 0639,4,"Jl. Kapten Muslihat No. 93
+Sibolga, SG 79654"
+914,"KH. Soleh Suartini, S.Sos",+62 (283) 655 6472,6,"Gang Medokan Ayu No. 278
+Sabang, KR 38585"
+915,Vinsen Mandala,(053) 196-6165,4,"Gg. Kebonjati No. 341
+Serang, Kepulauan Bangka Belitung 53173"
+916,"dr. Ida Hidayat, S.Kom",+62 (021) 751-9915,7,"Jl. H.J Maemunah No. 5
+Pariaman, NB 87006"
+917,Sari Maheswara,+62 (56) 709-9381,1,"Jalan Sukabumi No. 30
+Cirebon, Kalimantan Selatan 80987"
+918,Panji Habibi,+62-0608-807-0159,10,"Gang Raya Ujungberung No. 3
+Kotamobagu, PB 45354"
+919,dr. Kardi Manullang,+62 (61) 056 8608,8,"Jl. M.H Thamrin No. 2
+Tidore Kepulauan, Lampung 49293"
+920,Dr. Wulan Haryanti,+62-0236-798-1612,5,"Gang Pasirkoja No. 9
+Semarang, SU 66367"
+921,Candra Marbun,(049) 176 8990,2,"Jl. Sadang Serang No. 3
+Kotamobagu, Sulawesi Utara 10815"
+922,"Joko Aryani, S.Psi",(0235) 006-8366,7,"Gang Rajawali Timur No. 25
+Pekalongan, JI 48323"
+923,Wawan Rahayu,+62 (0445) 257 4728,7,"Jalan Jakarta No. 6
+Meulaboh, JK 75648"
+924,"Cawisono Permata, S.Sos",+62 (969) 756-6171,7,"Jl. H.J Maemunah No. 7
+Tasikmalaya, DI Yogyakarta 37206"
+925,Victoria Hutasoit,+62 (0448) 899-3301,10,"Gang Joyoboyo No. 882
+Payakumbuh, SS 64577"
+926,"Uchita Nainggolan, S.E.I",+62 (948) 043-9907,4,"Jalan M.T Haryono No. 45
+Cirebon, Nusa Tenggara Barat 90239"
+927,Balamantri Marpaung,(0803) 283-5905,6,"Jalan Rajawali Barat No. 4
+Cirebon, Kalimantan Tengah 95429"
+928,"Jasmin Haryanto, S.E.I",(0312) 654-1332,5,"Jl. Waringin No. 51
+Batu, Sulawesi Barat 96732"
+929,Padmi Sirait,+62-097-505-9040,3,"Jalan Pasteur No. 2
+Bitung, KR 86117"
+930,"Nyoman Hasanah, S.Ked",+62-0587-522-2463,8,"Jalan S. Parman No. 85
+Sungai Penuh, Riau 38601"
+931,Wani Namaga,+62-27-912-6117,4,"Gang Ciwastra No. 4
+Metro, SG 05603"
+932,"Winda Wastuti, S.T.",+62-046-589-2729,5,"Gg. Wonoayu No. 26
+Tebingtinggi, Papua Barat 47579"
+933,Restu Rajasa,+62-603-484-9066,6,"Jalan Jayawijaya No. 3
+Palembang, Kalimantan Selatan 34492"
+934,Galih Saptono,+62 (52) 609-0059,7,"Gg. Veteran No. 769
+Banjar, RI 10768"
+935,R. Taufik Anggriawan,+62-740-030-6986,2,"Jalan Suryakencana No. 3
+Semarang, Maluku Utara 70674"
+936,Vino Kurniawan,+62 (0282) 557-7290,4,"Gg. M.T Haryono No. 7
+Jambi, Sulawesi Barat 33670"
+937,dr. Siti Setiawan,+62 (0655) 322 6160,10,"Gang Cikutra Barat No. 75
+Bogor, SU 50602"
+938,Kunthara Sitorus,+62-27-888-9618,9,"Gang Raya Setiabudhi No. 303
+Bandar Lampung, KT 11605"
+939,"Ir. Eva Permata, S.Gz",+62-292-491-4461,5,"Gang Cihampelas No. 0
+Medan, Papua Barat 12458"
+940,Cahyanto Pertiwi,+62-012-883-5702,4,"Gang R.E Martadinata No. 6
+Bandung, MU 35013"
+941,Lasmono Palastri,+62 (0433) 182-2220,5,"Gang H.J Maemunah No. 5
+Tual, Jawa Barat 94234"
+942,Saiful Nasyiah,0810186768,3,"Jl. Joyoboyo No. 29
+Bandar Lampung, SS 02975"
+943,Syahrini Puspita,+62-321-737-9677,2,"Jalan K.H. Wahid Hasyim No. 05
+Pagaralam, PB 32811"
+944,Sarah Prayoga,+62 (039) 906-9444,8,"Jl. Kiaracondong No. 9
+Pekanbaru, Jawa Tengah 65844"
+945,"Lala Januar, S.Gz",+62-094-204-2004,9,"Jl. Ciwastra No. 8
+Bogor, Sulawesi Barat 28511"
+946,"Prasetya Rahmawati, M.Pd",(0975) 235 5248,8,"Jalan Siliwangi No. 89
+Bekasi, JK 80282"
+947,Ghaliyati Hassanah,(0059) 560 1213,3,"Gg. Jend. A. Yani No. 788
+Tanjungbalai, Maluku 77232"
+948,Harimurti Aryani,084 762 6549,5,"Jalan Pasteur No. 36
+Pontianak, JB 01634"
+949,"Betania Palastri, S.Gz",+62 (22) 216 9256,6,"Jl. Ir. H. Djuanda No. 147
+Tasikmalaya, JA 95096"
+950,dr. Rahmi Winarsih,+62 (71) 474 3607,8,"Jalan Cikapayang No. 8
+Jambi, Maluku 17487"
+951,Laila Purnawati,+62 (087) 856-5263,6,"Jalan Siliwangi No. 13
+Kota Administrasi Jakarta Utara, GO 49791"
+952,"Asmuni Rajasa, S.Pt",(0062) 831-3870,5,"Gang Setiabudhi No. 1
+Surakarta, Bengkulu 84952"
+953,Himawan Hutapea,(053) 316 0118,1,"Jl. Merdeka No. 902
+Tangerang Selatan, Kepulauan Riau 51889"
+954,Daliman Anggraini,+62-45-789-8313,7,"Gg. Ir. H. Djuanda No. 9
+Parepare, SU 95384"
+955,Tami Lazuardi,+62-79-531-7855,1,"Jl. Ir. H. Djuanda No. 911
+Pasuruan, NB 94775"
+956,Endah Mulyani,+62 (0756) 695-7763,4,"Jalan Gedebage Selatan No. 049
+Palangkaraya, Aceh 33368"
+957,Gading Mayasari,+62-072-640-8144,5,"Gg. R.E Martadinata No. 0
+Bengkulu, SU 12902"
+958,Pranawa Andriani,(082) 054-4059,7,"Jalan Jend. Sudirman No. 19
+Cilegon, Sumatera Barat 10174"
+959,Uchita Prasasta,0830920117,1,"Gg. Otto Iskandardinata No. 64
+Subulussalam, JB 99297"
+960,"Ir. Irwan Pratama, M.Farm",084 739 6648,1,"Gang Jakarta No. 88
+Jambi, JB 86797"
+961,Paulin Pratama,+62-689-574-8386,6,"Gang Bangka Raya No. 402
+Jambi, KU 45722"
+962,Dewi Halimah,+62 (53) 693-4113,6,"Jl. Moch. Ramdan No. 5
+Banda Aceh, NT 46211"
+963,Cakrawala Samosir,+62 (0003) 650-7674,7,"Gg. Gardujati No. 9
+Salatiga, Jambi 31473"
+964,Jelita Maryati,+62 (078) 451-1505,4,"Gg. Tebet Barat Dalam No. 40
+Bogor, SN 87016"
+965,Pia Latupono,+62 (01) 295 1074,10,"Gg. Rajawali Barat No. 507
+Surakarta, Papua Barat 04187"
+966,"Puji Aryani, S.E.",+62 (487) 761-7846,7,"Jl. Pacuan Kuda No. 9
+Palopo, JK 78264"
+967,"R.M. Ibrahim Wijayanti, S.Pt",(083) 393 5837,9,"Gang Pacuan Kuda No. 2
+Samarinda, ST 62892"
+968,Imam Wulandari,(013) 273-3014,9,"Gg. Cempaka No. 5
+Padang Sidempuan, GO 52183"
+969,Gatra Simbolon,(0405) 070-6921,5,"Jl. Pasirkoja No. 05
+Magelang, Jawa Barat 56008"
+970,Harimurti Usamah,+62 (046) 646-5478,3,"Gg. Kutisari Selatan No. 570
+Subulussalam, SS 13750"
+971,Rika Permadi,+62 (0535) 842-2427,1,"Jalan Sentot Alibasa No. 29
+Batam, PA 87205"
+972,Citra Narpati,(0613) 366 7248,3,"Gang Cikutra Timur No. 68
+Banjarbaru, JA 65029"
+973,dr. Timbul Hastuti,080 820 5271,6,"Gang Suryakencana No. 851
+Surakarta, Sulawesi Barat 46591"
+974,Drs. Gambira Sudiati,0805966897,1,"Gg. Monginsidi No. 42
+Pontianak, Jawa Barat 86896"
+975,"Intan Saefullah, S.I.Kom",080 918 0152,5,"Jl. Jayawijaya No. 709
+Pagaralam, PB 07671"
+976,Silvia Rahmawati,+62 (697) 797 5218,8,"Jl. Wonoayu No. 4
+Lubuklinggau, Lampung 79578"
+977,Kenes Pratama,+62-880-738-6978,6,"Jalan Cikapayang No. 0
+Kotamobagu, Bali 19155"
+978,"Titi Kusumo, M.TI.",+62-393-792-8711,4,"Gg. Antapani Lama No. 5
+Kota Administrasi Jakarta Pusat, KR 58808"
+979,Wulan Rahmawati,+62 (735) 408 9315,8,"Gang Raya Setiabudhi No. 9
+Parepare, BE 67503"
+980,Dr. Daliman Halimah,+62 (0752) 416-5939,5,"Gg. Otto Iskandardinata No. 16
+Balikpapan, PA 89766"
+981,Paris Handayani,(070) 898-5326,3,"Jalan Yos Sudarso No. 203
+Tangerang Selatan, Sumatera Selatan 00840"
+982,Hj. Anita Aryani,0875478130,8,"Jalan Soekarno Hatta No. 377
+Probolinggo, Jawa Tengah 87571"
+983,Patricia Kurniawan,+62 (67) 712 4946,9,"Gang Indragiri No. 52
+Dumai, JK 36135"
+984,Rahmi Suryono,+62-303-680-2420,10,"Jl. Antapani Lama No. 0
+Palopo, Kalimantan Selatan 83201"
+985,"R. Kambali Padmasari, S.I.Kom",+62 (87) 836-1677,4,"Gg. Cikutra Barat No. 344
+Tangerang Selatan, Sumatera Selatan 88027"
+986,"Alambana Setiawan, S.Gz",+62 (031) 290-4232,5,"Gang Soekarno Hatta No. 4
+Banjar, JB 82798"
+987,"Safina Latupono, M.TI.",+62 (763) 986-5966,6,"Jl. Pasirkoja No. 1
+Prabumulih, SU 20990"
+988,"KH. Chandra Zulkarnain, S.Ked",0843122208,8,"Jl. Tebet Barat Dalam No. 290
+Yogyakarta, SN 65189"
+989,Baktiadi Santoso,+62 (019) 705-1705,2,"Jl. Asia Afrika No. 6
+Bontang, Bali 80737"
+990,"KH. Ganda Fujiati, S.Farm",+62-077-038-4206,7,"Jalan Erlangga No. 00
+Pasuruan, JI 59874"
+991,"Dr. Anom Mandasari, S.Pd",(033) 949-9953,9,"Gg. Jayawijaya No. 605
+Langsa, SU 66710"
+992,Belinda Suryono,+62 (204) 065-5473,7,"Gg. M.T Haryono No. 91
+Denpasar, Sulawesi Tenggara 88518"
+993,"Dr. Dian Pratiwi, M.Pd",+62 (15) 172-5711,4,"Gg. Rumah Sakit No. 80
+Payakumbuh, SU 46152"
+994,"Tgk. Jasmin Nasyiah, S.Pd",(065) 113 4961,6,"Jl. Peta No. 1
+Bandar Lampung, LA 94037"
+995,Banawi Widodo,+62 (096) 848-5656,9,"Gang Ciwastra No. 7
+Palopo, SB 62231"
+996,Dt. Kenari Megantara,+62 (003) 992 3310,10,"Jalan Tubagus Ismail No. 4
+Bandar Lampung, YO 27940"
+997,"Uli Salahudin, M.TI.",+62-521-873-1906,7,"Jalan Ahmad Dahlan No. 36
+Tangerang Selatan, Sumatera Selatan 91026"
+998,Ganep Pranowo,+62-061-679-1389,2,"Gg. M.T Haryono No. 3
+Kota Administrasi Jakarta Selatan, AC 34255"
+999,dr. Galih Nasyiah,(0495) 093-3186,1,"Gang Yos Sudarso No. 39
+Pekanbaru, BA 06247"
+1000,Gawati Marpaung,+62-0734-963-1839,8,"Gg. Siliwangi No. 9
+Bitung, Gorontalo 84536"

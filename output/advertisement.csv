@@ -1,0 +1,101 @@
+advertisement_id,advertisement_title,advertisement_details,product_id,mileage_km,color,transmission,negotiable,post_date
+1,nissan march,Magnam possimus natus vero aspernatur corrupti voluptas.,1,84761,Hijau,at,False,2023-06-19
+2,nissan march,Porro odit dicta iste odio.,2,96187,Biru muda,at,True,2022-11-29
+3,nissan lafesta,Tempora excepturi facilis molestias quisquam quia.,3,61974,Biru laut,at,False,2022-11-10
+4,toyota avensis,Deleniti numquam nulla perspiciatis temporibus corporis.,4,175944,Magenta,at,True,2023-01-02
+5,daihatsu mira,Quidem qui eos debitis deserunt.,5,165912,Merah,at,True,2023-03-02
+6,daihatsu mira,Placeat eius esse non non.,6,103110,Biru laut,at,True,2022-08-27
+7,nissan march,Saepe quod consequuntur inventore officia reprehenderit quidem.,7,33154,Biru muda,at,False,2023-03-13
+8,volkswagen passat,Officia repellat id.,8,50188,Hitam,at,True,2023-05-13
+9,mazda bongo van,Architecto eligendi nobis facilis.,9,148568,Ungu,mt,True,2023-04-02
+10,honda step wgn,Odit cupiditate reprehenderit autem dolor quae excepturi.,10,119497,Magenta,at,True,2022-08-15
+11,subaru sambar,Quia minus veritatis at illo maiores doloremque doloremque.,11,182311,Abu-abu,mt,True,2023-01-04
+12,honda inspire,Quisquam velit architecto illo voluptatibus amet.,12,164408,Zaitun,at,True,2022-08-30
+13,mercedes-benz mercedes-benz others,Molestias occaecati aut pariatur praesentium.,13,114614,Biru,at,True,2023-04-25
+14,nissan march,Laudantium minus laudantium corporis tempora.,14,182273,Hijau,at,True,2023-01-19
+15,nissan march,Iste fugiat doloremque ipsum eos est blanditiis.,15,87637,Coklat,at,False,2023-02-13
+16,nissan march,Minima quod molestiae vero.,16,98619,Kuning,at,False,2023-04-18
+17,nissan march,Veniam soluta placeat repellat recusandae placeat nostrum.,17,179939,Emas,at,True,2023-02-18
+18,nissan march,Fugiat quia voluptatum nesciunt maxime in qui.,18,122957,Perak,at,True,2023-05-21
+19,nissan note,Possimus inventore impedit laudantium quos dignissimos illum.,19,18407,Hijau muda,at,False,2022-12-06
+20,nissan march,Sequi placeat deserunt molestiae eius temporibus nesciunt.,20,46762,Hitam,at,True,2023-04-17
+21,toyota passo,Consequuntur optio sint.,21,151789,Putih,at,False,2022-11-06
+22,subaru impreza,Molestiae sequi temporibus praesentium illo provident.,22,114183,Hijau tua,at,False,2023-02-09
+23,toyota passo,Repudiandae ipsum ducimus.,23,67664,Putih,at,True,2022-12-20
+24,kubota kubota others,Cum dolorum quo asperiores aspernatur provident ratione.,24,190587,Putih,mt,True,2023-07-01
+25,honda life,Blanditiis illum illum nam possimus placeat voluptatum quis.,25,82711,Hijau tua,at,False,2023-03-16
+26,toyota passo,Dignissimos eius quae nemo fugiat aliquam harum.,26,82618,Merah marun,at,True,2022-09-04
+27,toyota avensis,Dignissimos corrupti nobis quibusdam tempora aut.,27,79471,Perak,at,False,2022-10-11
+28,toyota progres,Illo harum at aut.,28,10534,Perak,at,True,2023-05-11
+29,nissan cube cubic,Cumque porro non recusandae pariatur quod ab nemo.,29,46054,Koral,at,True,2023-07-05
+30,nissan march,Aut blanditiis nihil quisquam ex.,30,79318,Putih,at,False,2022-07-17
+31,nissan note,Rem necessitatibus consequatur ab minus amet amet nostrum.,31,161496,Biru muda,at,False,2023-06-09
+32,nissan note,Vel numquam qui harum.,32,139709,Putih,at,False,2023-03-17
+33,nissan cube,Explicabo maiores minus similique temporibus corrupti.,33,60087,Perak,at,True,2023-02-05
+34,mercedes-benz a-class,Nobis molestias fugit aliquid repellendus.,34,114546,Emas,at,False,2023-02-08
+35,nissan march,Cupiditate magnam itaque expedita.,35,125159,Nila,at,False,2022-12-04
+36,nissan cube,Esse reprehenderit ipsum corporis.,36,48128,Nila,at,True,2022-09-22
+37,toyota passo,Tempora quos inventore incidunt.,37,110642,Merah,at,True,2022-08-15
+38,nissan note,Recusandae adipisci iusto officia totam exercitationem quo sint.,38,173780,Koral,at,False,2022-07-16
+39,mitsubishi coltplus,Facilis illo architecto et.,39,93974,Merah bata,at,False,2022-07-15
+40,nissan march,Maxime illo quam nulla explicabo.,40,192605,Zaitun,at,True,2022-08-24
+41,toyota passo,Id veritatis suscipit enim delectus rerum quisquam.,41,3679,Perak,at,True,2023-04-22
+42,nissan note,Unde amet molestias distinctio aliquid voluptate praesentium.,42,68502,Hijau,at,True,2023-04-27
+43,nissan march,Ea blanditiis dicta sequi explicabo dicta placeat.,43,161682,Biru laut,at,True,2023-04-11
+44,nissan cube,Sit quod minima sunt facilis tenetur.,44,77062,Biru laut,at,False,2022-09-09
+45,nissan note,Tempora modi ratione excepturi.,45,169363,Hijau tua,at,True,2022-08-23
+46,nissan cube,Illum eum expedita aspernatur veniam et aliquam.,46,194677,Hijau,at,False,2023-05-17
+47,toyota passo,Odit culpa sint asperiores minima quidem cum dicta.,47,28844,Hijau tua,at,False,2022-10-24
+48,toyota passo,Non iste soluta optio.,48,146488,Coklat tua,at,False,2022-09-26
+49,suzuki mr wagon,Quae rem accusantium corporis nostrum mollitia.,49,132165,Hijau,at,False,2022-09-21
+50,toyota passo,Atque saepe ad tenetur tempore magnam occaecati.,50,193706,Koral,at,True,2022-07-23
+51,daihatsu mira,Libero neque non voluptatum magni aut provident.,51,172866,Ungu tua,at,False,2022-12-01
+52,toyota passo,Alias architecto beatae qui ad.,52,97756,Hijau,at,False,2022-10-15
+53,mitsubishi pajero mini,Impedit necessitatibus quo beatae adipisci fugiat voluptates.,53,121638,Biru,mt,True,2022-12-04
+54,honda fit,Repudiandae nulla delectus repellendus fugit iusto.,54,169729,Hijau,at,True,2023-02-19
+55,subaru legacy b4,Ad fugiat laboriosam molestias ipsum veniam illum.,55,109881,Merah,at,False,2022-12-12
+56,toyota vitz,Dolor vitae aliquam fugiat beatae voluptate.,56,145977,Merah jambu,at,False,2023-07-04
+57,toyota vitz,Laudantium cum consectetur adipisci reprehenderit fuga sint.,57,90911,Ungu,at,False,2023-07-01
+58,honda fit,Quasi odio dolores minus vitae molestias aliquam.,58,5708,Perak,at,False,2023-01-28
+59,honda inspire,Inventore nesciunt doloribus quo ipsum maiores nostrum.,59,74168,Kuning,at,False,2023-02-20
+60,nissan note,Tempora omnis magni praesentium dolorum aliquid hic praesentium.,60,184720,Koral,at,False,2022-07-14
+61,toyota mark ii blit,Placeat delectus provident quia numquam odio ratione.,61,85328,Merah jambu,at,False,2022-11-05
+62,nissan note,Hic error commodi occaecati excepturi.,62,106442,Emas,at,True,2022-10-16
+63,nissan note,Maxime mollitia voluptatem debitis quo.,63,53262,Nila,at,False,2022-12-07
+64,nissan note,Nesciunt nulla reiciendis mollitia suscipit a.,64,64687,Magenta,at,False,2023-05-20
+65,honda insight,Magni ipsam recusandae eligendi.,65,118037,Kuning,at,True,2023-02-12
+66,nissan note,Quis omnis vel.,66,103802,Jingga,at,False,2022-07-10
+67,nissan note,Omnis nam eos alias.,67,170661,Hijau,at,False,2022-09-26
+68,toyota passo,Odio laborum sint quas aspernatur neque accusamus.,68,80248,Merah bata,at,False,2023-07-05
+69,toyota passo,Ipsum accusantium eaque temporibus eligendi pariatur.,69,108332,Biru laut,at,True,2023-05-17
+70,nissan cube,Quas aut placeat illo.,70,60836,Magenta,at,True,2023-05-02
+71,nissan march,Iusto ducimus enim temporibus sequi totam corporis ex.,71,188106,Merah bata,at,False,2023-02-10
+72,nissan note,Rem debitis aut quis quia dolore.,72,177084,Coklat tua,at,True,2023-03-06
+73,nissan note,Perspiciatis voluptate aperiam adipisci libero.,73,9412,Abu-abu,at,True,2023-03-16
+74,toyota passo,Architecto quae facere quasi reprehenderit distinctio porro.,74,156174,Koral,at,True,2022-08-06
+75,toyota passo,Architecto harum beatae voluptatum assumenda eos doloribus.,75,77936,Jingga,at,False,2022-07-30
+76,nissan cube,Quo non excepturi totam ex.,76,193267,Biru,at,False,2022-09-19
+77,nissan cube,Deserunt impedit minus excepturi modi.,77,27228,Hitam,at,False,2022-07-26
+78,toyota passo,Debitis sed qui officiis veniam dignissimos dolores.,78,162967,Merah marun,at,False,2022-09-18
+79,nissan cube,Suscipit iusto assumenda cupiditate.,79,107722,Biru laut,at,False,2022-10-24
+80,nissan cube,Dolore magni non amet accusamus.,80,47656,Emas,at,False,2023-02-25
+81,nissan cube,Eius similique explicabo sed iste sunt praesentium.,81,50141,Biru dongker,at,False,2022-09-02
+82,nissan cube,Voluptates accusantium a porro.,82,61235,Magenta,at,True,2022-09-02
+83,nissan cube,Magnam accusantium non.,83,89313,Coklat tua,at,True,2022-07-08
+84,daihatsu move,Nam quasi veniam explicabo asperiores excepturi.,84,73023,Merah marun,at,False,2023-02-25
+85,daihatsu move,Et excepturi quas.,85,156909,Merah jambu,at,True,2022-12-05
+86,nissan note,Quisquam ipsum sequi et aperiam perferendis dolorem et.,86,59464,Ungu,at,True,2022-08-13
+87,daihatsu tanto,At facilis id occaecati.,87,178427,Hijau,at,False,2022-08-20
+88,daihatsu terios kid,Exercitationem praesentium unde omnis doloribus recusandae magnam.,88,150064,Merah bata,at,True,2023-01-11
+89,mazda az-wagon,Blanditiis vitae voluptatibus cumque.,89,87865,Biru laut,at,True,2022-09-03
+90,daihatsu coo,Error aliquid eaque necessitatibus.,90,62405,Merah bata,at,False,2022-11-08
+91,nissan note,Facilis similique amet laborum eius.,91,136651,Abu-abu,at,False,2023-05-25
+92,honda fit,Sapiente aut libero recusandae officia ipsum.,92,119850,Ungu,at,True,2022-11-21
+93,honda fit,Earum voluptate beatae nulla amet molestiae nisi.,93,183531,Coklat,at,False,2023-03-30
+94,nissan note,Provident maiores corrupti quia nisi.,94,193398,Merah marun,at,True,2023-05-17
+95,nissan cube,Asperiores perferendis ea temporibus quo odio.,95,66202,Kuning,at,False,2023-05-28
+96,nissan note,Accusantium ipsum et voluptas ea.,96,37997,Abu-abu,at,False,2022-10-13
+97,toyota passo,Dolores rerum eos praesentium explicabo hic.,97,196100,Ungu,at,False,2023-03-29
+98,nissan note,Unde ratione et quod laborum.,98,107866,Koral,at,True,2022-10-01
+99,nissan note,Velit rem sed quod quidem.,99,50290,Biru dongker,at,False,2022-10-14
+100,nissan note,Accusamus at veniam vel labore.,100,13452,Abu-abu,at,False,2023-05-25
