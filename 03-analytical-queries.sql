@@ -1,5 +1,3 @@
--- Active: 1688814627402@@127.0.0.1@5432@v2_pacmann_sql_project_secondhand_car_marketplace@public
-
 -- 1. Rank car models based on the number of bids.
 SELECT
   p.product_model AS model,
