@@ -2,7 +2,7 @@ import csv
 import psycopg2
 
 # Connect to the database
-conn = psycopg2.connect("dbname=v2_pacmann_sql_project_secondhand_car_marketplace user=postgres password=h0thr34d")
+conn = psycopg2.connect("dbname=pacmann_sql_project_secondhand_car_marketplace user=postgres password=xxxxxxxx")
 
 # Get a cursor object
 cur = conn.cursor()
