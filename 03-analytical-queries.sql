@@ -44,34 +44,13 @@ JOIN bid b ON p.product_id = b.advertisement_id
 GROUP BY p.product_model;
 
 -- 5. Create a window function for the average bid price of a brand and car model for the last 6 months. Let's use Nissan March as an example.
-SELECT
-  p.product_brand AS merk,
-  p.product_model AS model,
-  AVG(b.bid_amount) OVER (
-    PARTITION BY p.product_brand, p.product_model
-    ORDER BY b.bid_time DESC
-    ROWS BETWEEN 6 PRECEDING AND CURRENT ROW
-  ) AS avg_bid_amount
-FROM
-  product p
-  INNER JOIN bid b ON p.product_id = b.product_id
-WHERE
-  p.product_brand = 'nissan' AND
-  p.product_model = 'march';
-
-SELECT
-  p.product_brand AS merk,
-  p.product_model AS model,
-  AVG(b.bid_amount) OVER (
-    PARTITION BY p.product_brand, p.product_model
-    ORDER BY b.bid_time DESC
-    RANGE BETWEEN INTERVAL '6 MONTHS' PRECEDING AND CURRENT ROW
-  ) AS avg_bid_amount
-FROM
-  product p
-INNER JOIN
-  bid b ON p.product_id = b.product_id
-WHERE
-  b.bid_time >= CURRENT_DATE - INTERVAL '6 MONTHS'
-  AND p.product_brand = 'nissan'
-  AND p.product_model = 'notes';
+SELECT product_brand AS merk, product_model AS model,
+AVG(bid_amount) FILTER (WHERE DATE_PART('month', bid_time) = DATE_PART('month', CURRENT_DATE) - 6) AS m_min_6,
+AVG(bid_amount) FILTER (WHERE DATE_PART('month', bid_time) = DATE_PART('month', CURRENT_DATE) - 5) AS m_min_5,
+AVG(bid_amount) FILTER (WHERE DATE_PART('month', bid_time) = DATE_PART('month', CURRENT_DATE) - 4) AS m_min_4,
+AVG(bid_amount) FILTER (WHERE DATE_PART('month', bid_time) = DATE_PART('month', CURRENT_DATE) - 3) AS m_min_3,
+AVG(bid_amount) FILTER (WHERE DATE_PART('month', bid_time) = DATE_PART('month', CURRENT_DATE) - 2) AS m_min_2,
+AVG(bid_amount) FILTER (WHERE DATE_PART('month', bid_time) = DATE_PART('month', CURRENT_DATE) - 1) AS m_min_1
+FROM car_bid
+WHERE product_brand = 'nissan' AND product_model = 'note'
+GROUP BY product_brand, product_model;
