@@ -12,6 +12,19 @@ This project is a simulation of a secondhand car marketplace where users can buy
 - ERD.png: An image file that shows the entity-relationship diagram of the database schema.
 - import_csv.py: A Python script that imports the CSV files in the Output folder into the PostgreSQL database.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Database Schema](#database-schema)
+- [Prerequisites](#prerequisites)
+- [How to Run the Project](#how-to-run-the-project)
+- [Transactional Queries](#transactional-queries)
+- [Analytical Queries](#analytical-queries)
+- [Project Challenges](#project-challenges)
+- [Project Outcomes](#project-outcomes)
+- [Acknowledgements](#acknowledgements)
+- [Project feedback](#project-feedback)
+
 ## Project overview
 
 The project simulates a secondhand car marketplace where users can buy and sell used cars. The database schema consists of six tables:
@@ -25,7 +38,8 @@ The project simulates a secondhand car marketplace where users can buy and sell 
 
 The ERD of the database schema is shown below:
 
-![ERD](ERD.png)
+![ERD from dbdiagram.io](images/ERD.png)
+
 
 ## Database Schema
 
@@ -114,6 +128,14 @@ CREATE TABLE bid (
 );
 ```
 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have installed the latest version of Python and PostgreSQL.
+- You have a Windows/Linux/Mac machine. This project is OS independent.
+- You have read the PostgreSQL documentation related to the project.
+
 ## How to run the project
 
 To run the project, you need to have PostgreSQL and Python installed on your machine. You also need to install some Python libraries, such as psycopg2, pandas and Faker. You can use pip to install them:
@@ -149,13 +171,14 @@ python import_csv.py
 
 The project uses Python to generate synthetic data for each table using the Faker library. The original dataset of used cars was obtained from Kaggle using pandas library. The project also uses PostgreSQL to perform some transactional and analytical queries on the database.
 
+
 ## Transactional Queries
 
-This part of the project demonstrates some transactional queries that can be performed on the database, such as inserting, updating and deleting records. The queries are written in SQL and can be executed using pgAdmin or any other PostgreSQL client.
+This section demonstrates some transactional queries that can be performed on the database, such as inserting, updating, and deleting records. The queries are written in SQL and can be executed using pgAdmin or any other PostgreSQL client.
 
-### Finding cars made in 2015 and onwards
+### 1. Finding cars made in 2015 and onwards
 
-This query selects the product id, brand, model, year and price of the cars that were made in 2015 or later. It filters the product table by the product_year column and returns the result in a tabular format.
+This query selects the product id, brand, model, year, and price of the cars that were made in 2015 or later. It filters the `product` table by the `product_year` column and returns the result in a tabular format.
 
 ```sql
 SELECT
@@ -169,10 +192,40 @@ FROM
 WHERE
   product_year >= 2015;
 ```
+This image shows the result of the query, displaying the cars made in 2015 and onwards, along with their product ID, brand, model, year, and price.
 
-### Viewing all cars sold by a specific account, ordered by the newest
+![Finding cars made in 2015 and onwards](images/transactional-query-01.png)
 
-This query selects the product id, brand, model, year, price and post date of the cars that were sold by a specific user account. It joins the product, advertisement and user_data tables by their foreign keys and filters the result by the user_name column. It orders the result by the post_date column in descending order.
+
+
+### 2. Adding a new bid to a product
+
+This query inserts a new record into the `bid` table with the bid amount, bid time, user id, and advertisement id. It uses a subquery to find the advertisement id that corresponds to the product id of the car that the user wants to bid on. It assumes that the user id and the product id are already known.
+
+```sql
+-- Join the bid table with the advertisement table and the product table, view the table first
+SELECT b.bid_id, b.bid_amount, b.bid_time, b.user_id, b.advertisement_id, a.product_id
+FROM bid b
+JOIN advertisement a ON b.advertisement_id = a.advertisement_id
+JOIN product p ON a.product_id = p.product_id
+ORDER BY bid_id ASC;
+
+-- Insert a new bid data with a different bid_id, for example a new bid_id 51
+INSERT INTO bid (bid_id, bid_amount, bid_time, user_id, advertisement_id)
+VALUES (51, 185500000, '2022-03-04', 7, 3);
+```
+
+![Adding a new bid to a product](images/transactional-query-02a.png)
+
+The first image shows the table data before adding the new bid, displaying the bid information such as bid ID, bid amount, bid time, user ID, advertisement ID, and product ID.
+
+![Adding a new bid to a product](images/transactional-query-02b.png)
+
+The second image shows the updated table after inserting a new bid with bid ID 51 and other relevant information.
+
+### 3. Viewing all cars sold by a specific account, ordered by the newest
+
+This query selects the product id, brand, model, year, price, and post date of the cars that were sold by a specific user account. It joins the `product`, `advertisement`, and `user_data` tables by their foreign keys and filters the result by the `user_name` column. It orders the result by the `post_date` column in descending order.
 
 ```sql
 SELECT
@@ -193,10 +246,13 @@ WHERE
 ORDER BY
   a.post_date DESC;
 ```
+This image shows the result of the query, displaying all cars sold by the specific account "Titin Wijaya". The cars are listed with their product ID, brand, model, year, price, and post date, ordered by the newest.
 
-### Searching for the cheapest used car based on a keyword
+![Viewing all cars sold by a specific account, ordered by the newest](images/transactional-query-03.png)
 
-This query selects the product id, brand, model, year and price of the cheapest car that matches a given keyword. It filters the product table by the product_model column using the LIKE operator with a wildcard character. It orders the result by the product_price column in ascending order and limits the result to one record.
+### 4. Searching for the cheapest used car based on a keyword
+
+This query selects the product id, brand, model, year, and price of the cheapest car that matches a given keyword. It filters the `product` table by the `product_model` column using the `LIKE` operator with a wildcard character. It orders the result by the `product_price` column in ascending order and limits the result to one record.
 
 ```sql
 SELECT
@@ -214,15 +270,16 @@ ORDER BY
 LIMIT 1;
 ```
 
-## Analytical Queries
+This image shows the result of the query, displaying the cheapest used car that matches the keyword "mpv". The car is shown with its product ID, brand, model, year, and price.
 
-This part of the project demonstrates some analytical queries that can be performed on the database, such as aggregating, joining and filtering data. The queries are written in SQL and can be executed using pgAdmin or any other PostgreSQL client.
+![Searching for the cheapest used car based on a keyword](images/transactional-query-04.png)
 
-### Finding the nearest used car based on a city id
+### 5. Finding the nearest used car based on a city id
 
-This query selects the product id, brand, model, year, price and distance of the nearest cars based on a given city id. It joins the product, user_data and city tables by their foreign keys and calculates the distance between each car's location and the given city's location using a rough approximation of Euclidean distance (which does not account for the Earth's curvature). It filters out the cars that are located in the same city as the given city and orders the result by distance in ascending order. It limits the result to ten records.
+This query selects the product id, brand, model, year, price, and distance of the nearest cars based on a given city id. It joins the `product`, `user_data`, and `city` tables by their foreign keys and calculates the distance between each car's location and the given city's location using a rough approximation of Euclidean distance (which does not account for the Earth's curvature). It filters out the cars that are located in the same city as the given city and orders the result by distance in ascending order. It limits the result to ten records.
 
 ```sql
+-- Finding the nearest used car based on a city id. For example, we will look for the nearest car in city_id = 1
 SELECT
   product.product_id,
   product.product_brand AS merk,
@@ -247,22 +304,28 @@ CROSS JOIN
     FROM
       city
     WHERE
-      city_id = ?
-  ) AS city -- Replace ? with your desired city id.
+      city_id = 1
+  ) AS city
 WHERE
-  user_city.city_id <> ? -- Replace ? with your desired city id.
+  user_city.city_id <> 1
 ORDER BY
   distance ASC
 LIMIT 10;
 ```
+This image shows the result of the query, displaying the nearest used cars based on the given city ID. The cars are listed with their product ID, brand, model, year, price, and distance from the specified city.
+
+![Finding the nearest used car based on a city id](images/transactional-query-05.png)
+
+
+
 
 ## Analytical Queries
 
-This part of the project demonstrates some analytical queries that can be performed on the database, such as aggregating, joining and filtering data. The queries are written in SQL and can be executed using pgAdmin or any other PostgreSQL client.
+This section demonstrates some analytical queries that can be performed on the database, such as aggregating, joining, and filtering data. The queries are written in SQL and can be executed using pgAdmin or any other PostgreSQL client.
 
-### Rank car models based on the number of bids
+### 1. Rank car models based on the number of bids
 
-This query selects the product model, the count of distinct products and the count of bids for each product model. It joins the product and bid tables by their foreign keys and groups the result by the product model column. It orders the result by the count of bids in descending order.
+This query selects the product model, the count of distinct products, and the count of bids for each product model. It joins the `product` and `bid` tables by their foreign keys and groups the result by the product model column.
 
 ```sql
 SELECT
@@ -274,10 +337,13 @@ LEFT JOIN bid b ON p.product_id = b.advertisement_id
 GROUP BY p.product_model
 ORDER BY count_bid DESC;
 ```
+ It orders the result by the count of bids in descending order.
+ 
+![Rank car models based on the number of bids](images/analytical-query-01.png)
 
-### Compare car prices based on the average price per city
+### 2. Compare car prices based on the average price per city
 
-This query selects the city name, the product brand, model, year, price and the average price of cars per city. It joins the product, user_data and city tables by their foreign keys and calculates the average price of cars per city using a window function with a partition by clause. It returns the result in a tabular format.
+This query selects the city name, the product brand, model, year, price, and the average price of cars per city. It joins the `product`, `user_data`, and `city` tables by their foreign keys and calculates the average price of cars per city using a window function with a partition by clause. 
 
 ```sql
 SELECT
@@ -292,9 +358,13 @@ JOIN user_data u ON p.user_id = u.user_id
 JOIN city c ON u.city_id = c.city_id;
 ```
 
-### From the offers of a car model, find the comparison of the date the user made the bid with the next bid and the bid price given
+It returns the result in a tabular format below:
+![Compare car prices based on the average price per city](images/analytical-query-02.png)
 
-This query selects the product model, the user id, the first bid date, the next bid date, the first bid price and the next bid price for each user who made a bid on a specific car model. It joins the product and bid tables by their foreign keys and filters the result by the product model column. It uses window functions with lead functions to get the next bid date and price for each user. It assumes that the product model is already known.
+
+### 3. From the offers of a car model, find the comparison of the date the user made the bid with the next bid and the bid price given
+
+This query selects the product model, the user id, the first bid date, the next bid date, the first bid price, and the next bid price for each user who made a bid on a specific car model. It joins the `product` and `bid` tables by their foreign keys and filters the result by the product model column.
 
 ```sql
 SELECT
@@ -309,15 +379,17 @@ JOIN product p ON p.product_id = b.advertisement_id
 WHERE p.product_model = 'march';
 ```
 
-![Find the comparison of the date the user made the bid with the next bid and the bid price given](images\analytical-query-04.png)
+ It uses window functions with lead functions to get the next bid date and price for each user. It assumes that the product model is already known.
 
-### Compare the percentage difference between the average car price based on the model and the average bid price offered by the customer in the last 6 months
+![Find the comparison of the date the user made the bid with the next bid and the bid price given](images/analytical-query-03.png)
 
-This query selects the product model, the average car price, the average bid price in the last 6 months, the difference and the percentage difference between them for each product model. It joins the product and bid tables by their foreign keys and groups the result by the product model column. It uses window functions with filter clauses to get the average bid price in the last 6 months. It calculates the difference and percentage difference using arithmetic operations.
+### 4. Compare the percentage difference between the average car price based on the model and the average bid price offered by the customer in the last 6 months
+
+This query selects the product model, the average car price, the average bid price in the last 6 months, the difference, and the percentage difference between them for each product model. It joins the `product` and `bid` tables by their foreign keys and groups the result by the product model column. It uses window functions with filter clauses to get the average bid price in the last 6 months. It calculates the difference and percentage difference using arithmetic operations.
 
 ##### Create a view to join the relevant tables
 
-This query creates a view called car_bid that joins the product, advertisement and bid tables by their foreign keys and selects the product brand, model, bid amount and bid time columns. The view can be used to simplify the subsequent queries on the car bids.
+This query creates a view called `car_bid` that joins the `product`, `advertisement`, and `bid` tables by their foreign keys and selects the product brand, model, bid amount, and bid time columns. The view can be used to simplify the subsequent queries on the car bids.
 
 ```sql
 -- Create a view to join the relevant tables
@@ -327,19 +399,25 @@ FROM product p
 JOIN advertisement a ON p.product_id = a.product_id
 JOIN bid b ON a.advertisement_id = b.advertisement_id;
 ```
-And then use SELECT statement to view the car_bid look like:
+
+And then use the SELECT statement to view the `car_bid` as follows:
+
 ```sql
 SELECT * FROM car_bid;
 ```
 
-![Create a view to join the relevant tables](images\analytical-query-05a.png)
+![Create a view to join the relevant tables](images/analytical-query-05a.png)
 
-#### Use the car_bid view to calculate the average bid price for each car brand and model for each month
+### 5. Create a window function for the average bid price of a brand and car model for the last 6 months. Let's use Nissan March as an example.
 
-This query uses the car_bid view to calculate the average bid price for each car brand and model for each month. It filters the result by a specific product brand and model using the WHERE clause. It uses window functions with filter clauses to get the average bid price for each month using the DATE_PART function. It returns the result in a tabular format.
+
+#### Use the `car_bid` view to calculate the average bid price for each car brand and model for each month
+
+This query uses the `car_bid` view to calculate the average bid price for each car brand and model for each month. It filters the result by a specific product brand and model using the WHERE clause. It uses window functions with filter clauses to get the average bid price for each month using the `DATE_PART` function. 
+
 
 ```sql
--- Use the view to calculate the average bid price for each car brand and model for each month
+-- 5. Use the view to calculate the average bid price for each car brand and model for each month
 SELECT product_brand AS merk, product_model AS model,
 AVG(bid_amount) FILTER (WHERE DATE_PART('month', bid_time) = DATE_PART('month', CURRENT_DATE) - 6) AS m_min_6,
 AVG(bid_amount) FILTER (WHERE DATE_PART('month', bid_time) = DATE_PART('month', CURRENT_DATE) - 5) AS m_min_5,
@@ -351,9 +429,9 @@ FROM car_bid
 WHERE product_brand = 'nissan' AND product_model = 'note'
 GROUP BY product_brand, product_model;
 ```
+It returns the result in a tabular format.
 
-
-![Use the view to calculate the average bid price for each car brand and model for each month](images\analytical-query-05b.png)
+![Use the `car_bid` view to calculate the average bid price for each car brand and model for each month](images/analytical-query-05b.png)
 
 
 ## Project challenges
@@ -374,6 +452,15 @@ Some of the outcomes of this project are:
 - Synthetic data for each table that simulates the behavior of the users, products, advertisements and bids
 - Transactional queries that insert, update and delete records from the database
 - Analytical queries that aggregate, join and filter data from the database
+
+## Acknowledgements
+
+We would like to thank the following:
+
+- Pacmann Academy for give their lecture about Intro to Software and Data Engineer.
+- Kaggle user, Dooa Alsenani for providing the original dataset of used cars.
+- Faker library for helping us generate synthetic data.
+- PostgreSQL community for their comprehensive documentation and support.
 
 ## Project feedback
 
